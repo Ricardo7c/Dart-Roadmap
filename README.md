@@ -5,7 +5,7 @@ Este roadmap foi criado para auxiliar nos estudos da linguagem **Dart**, base do
 **NÃO É UM CURSO:** Apenas um guia para organizar os estudos.
 Siga sem pular etapas, pratique bastante e aproveite a documentação oficial do Dart.
 
-[Dart cheat sheet]()
+[Dart cheat sheet](https://github.com/Ricardo7c/Dart-Roadmap/blob/main/cheatsheet.md)
 
 🚀 **Pronto para começar sua jornada com Dart?**
 
