@@ -16,7 +16,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Compartilhe Código**: Publique no GitHub e vá criando seu portfólio enquanto estuda.
 
 
-## **INTRODUÇÃO**
+## 🚀 **INTRODUÇÃO**
 
 * **O que é Dart?** – [História e Objetivo da Linguagem](https://www.youtube.com/watch?v=MqGhZDFiVys)
 * **Experimentando Dart direto no navegador** - [DartPad](https://dartpad.dev/)
@@ -24,12 +24,12 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Um resumo da sintaxe da linguagem** - [Dart Cheat Sheet](https://github.com/Ricardo7c/Dart-Roadmap/blob/main/cheatsheet.md)
 
 
-# **🟢 NÍVEL BÁSICO**
+## **🟢 NÍVEL BÁSICO**
 
 ### **01 - Sintaxe básica**
 
 * **Estrutura do programa** (`main()`)
-* **Saída de dados** (`print`)
+* **Saída de dados** (`print`, `stdout.write()`)
 * **Variáveis** (`var`, `final`, `const`, `late`, `dynamic`)
 * **Entrada de dados** (`stdin.readLineSync()`)
 * **Tipos de dados** (`int`, `double`, `String`, `bool`, `num`, `Object`, `dynamic`)
