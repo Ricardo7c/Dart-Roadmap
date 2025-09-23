@@ -7,7 +7,7 @@ Este roadmap foi criado por mim para auxiliar nos meus estudos em Dart.
 Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compreendido antes de prosseguir. Dart é uma linguagem moderna, poderosa e essencial para quem deseja trabalhar com Flutter. Construir uma base sólida é fundamental para aproveitar todo o seu potencial.
 
 
-🌱 **Conselhos Gerais**
+## 🌱 **Conselhos Gerais**
 
 * **Prática Constante**: Resolver exercícios ou problemas reais é melhor do que decorar sintaxe.
 * **Foque no Básico Primeiro**: Domine bem Dart antes de tentar inciar com Flutter.
@@ -16,7 +16,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Compartilhe Código**: Publique no GitHub e vá criando seu portfólio enquanto estuda.
 
 
-## INTRODUÇÃO
+## **INTRODUÇÃO**
 
 * **O que é Dart?** – [História e Objetivo da Linguagem](https://www.youtube.com/watch?v=MqGhZDFiVys)
 * **Experimentando Dart direto no navegador** - [DartPad](https://dartpad.dev/)
@@ -44,8 +44,8 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 ### **02 - Estruturas de dados simples**
 
 * **List**
-* **Set** (Conjunto)
-* **Map** (Dicionário)
+* **Set** (`Conjunto`)
+* **Map** (`Dicionário`)
 
 
 ### **03 - Funções**
