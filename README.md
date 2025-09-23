@@ -1,4 +1,4 @@
-# Dart Roadmap
+# **Dart Roadmap: Dominando a Linguagem Passo a Passo**
 
 Este roadmap foi criado por mim para auxiliar nos meus estudos em Dart.
 
@@ -7,28 +7,24 @@ Este roadmap foi criado por mim para auxiliar nos meus estudos em Dart.
 Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compreendido antes de prosseguir. Dart é uma linguagem moderna, poderosa e essencial para quem deseja trabalhar com Flutter. Construir uma base sólida é fundamental para aproveitar todo o seu potencial.
 
 
-
-🚀 Pronto para começar sua jornada com Dart?
-
 🌱 **Conselhos Gerais**
 
-* **Prática Constante**: Resolver exercícios ou problemas reais é melhor do que apenas ler ou decorar sintaxe.
+* **Prática Constante**: Resolver exercícios ou problemas reais é melhor do que decorar sintaxe.
 * **Foque no Básico Primeiro**: Domine bem Dart antes de tentar inciar com Flutter.
-* **Use a Documentação Oficial**: A [Documentação do Dart](https://dart.dev/guides) sempre será sua melhor referência.
-* **Construa Projetos Pequenos**: até mesmo CLIs simples ou scripts para automatizar tarefas já ajudam a fixar o aprendizado.
-* **Compartilhe Código**: publique no GitHub, peça feedback, participe de comunidades e vá criando seu portfólio.
+* **Use a Documentação Oficial**: A Documentação do Dart sempre será sua melhor referência.
+* **Construa Projetos Pequenos**: CLIs simples ou scripts de automação, ajudam a fixar o aprendizado.
+* **Compartilhe Código**: Publique no GitHub e vá criando seu portfólio enquanto estuda.
 
----
 
 ## INTRODUÇÃO
 
-* O que é Dart? – [História e Objetivo da Linguagem](https://www.youtube.com/watch?v=MqGhZDFiVys)
-* Experimentando Dart direto no navegador - [DartPad](https://dartpad.dev/)
-* Instalação do Dart SDK – [Download](https://dart.dev/get-dart)
-* Uso do VS Code (ou Android Studio/IntelliJ) com extensão de Dart
-* Um resumo da sintaxe da linguagem **[Dart Cheat Sheet]()**
+* **O que é Dart?** – [História e Objetivo da Linguagem](https://www.youtube.com/watch?v=MqGhZDFiVys)
+* **Experimentando Dart direto no navegador** - [DartPad](https://dartpad.dev/)
+* **Instalação do Dart SDK** – [Download](https://dart.dev/get-dart)
+* **Um resumo da sintaxe da linguagem** - [Dart Cheat Sheet](https://github.com/Ricardo7c/Dart-Roadmap/blob/main/cheatsheet.md)
 
 
+# **🟢 NÍVEL BÁSICO**
 
 ### **01 - Sintaxe básica**
 
@@ -44,7 +40,6 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Controle de fluxo** (`if`, `else`, `switch`)
 * **Laços de repetição** (`for`, `for-in`, `while`, `do-while`)
 
-* * *
 
 ### **02 - Estruturas de dados simples**
 
@@ -52,7 +47,6 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Set** (Conjunto)
 * **Map** (Dicionário)
 
-* * *
 
 ### **03 - Funções**
 
@@ -67,4 +61,3 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Funções de Conversão** (`int.parse()`, `double.parse()`, `.toString()`)
 * **Funções Especiais de Strings e Listas** (`.substring()`, `.contains()`, `.replaceAll()`, `.add()`, `.remove()`, `.sort()`, `.reversed`)
 
-* * *
