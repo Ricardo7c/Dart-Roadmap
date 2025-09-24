@@ -34,7 +34,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Tipos de dados** (`int`, `double`, `String`, `bool`, `num`, `Object`, `dynamic`)
 * **Conversão de tipos**
 * **Strings e formatação** (`interpolação`, métodos úteis)
-* **`null` e Null Safety** (`?`, `??`, `??=`, `?.`, `late`)
+* **`null` e Null Safety** (`?`, `??`, `??=`, `?.`)
 * **Entrada e Saida de dados manual** (`stdout.write()`, `stdin.readLineSync()`)
 * **Operadores: aritméticos, relacionais, lógicos, incremento**
 * **Controle de fluxo** (`if`, `else`, `switch`)
