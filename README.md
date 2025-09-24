@@ -29,13 +29,13 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 ### **01 - Sintaxe básica**
 
 * **Estrutura do programa** (`main()`)
-* **Saída de dados** (`print`, `stdout.write()`)
+* **Saída de dados simples** (`print`)
 * **Variáveis** (`var`, `final`, `const`, `late`, `dynamic`)
-* **Entrada de dados** (`stdin.readLineSync()`)
 * **Tipos de dados** (`int`, `double`, `String`, `bool`, `num`, `Object`, `dynamic`)
 * **Conversão de tipos**
 * **Strings e formatação** (`interpolação`, métodos úteis)
 * **`null` e Null Safety** (`?`, `??`, `??=`, `?.`, `late`)
+* **Entrada e Saida de dados manual** (`stdout.write()`, `stdin.readLineSync()`)
 * **Operadores: aritméticos, relacionais, lógicos, incremento**
 * **Controle de fluxo** (`if`, `else`, `switch`)
 * **Laços de repetição** (`for`, `for-in`, `while`, `do-while`)
