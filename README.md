@@ -30,8 +30,8 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 * **Estrutura do programa** (`main()`)
 * **Saída de dados simples** (`print`)
-* **Variáveis** (`var`, `final`, `const`, `late`, `dynamic`)
-* **Tipos de dados** (`int`, `double`, `String`, `bool`, `num`, `Object`, `dynamic`)
+* **Variáveis** (`var`, `final`, `const`, `late`, `dynamic`, `num`, `Object`)
+* **Tipos de dados** (`int`, `double`, `String`, `bool`)
 * **Conversão de tipos**
 * **Strings e formatação** (`interpolação`, métodos úteis)
 * **`null` e Null Safety** (`?`, `??`, `??=`, `?.`)

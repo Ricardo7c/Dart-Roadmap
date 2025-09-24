@@ -77,22 +77,19 @@ O valor de PI é: 3.14159
 
 -----
 
+
 ### Exercício 5: `late`
 
-**Cenário:** Você está criando uma classe para um **Post** de blog, mas o título do post só é definido depois que o autor o salva. A variável de título não pode ser nula, pois todo post precisa de um título.
+**Cenário:** Você precisa de uma variável que **não pode ser nula**, mas o valor dela só será definido mais tarde, depois que você fizer alguma outra operação no código.
 
 **Sua tarefa:**
 
-1.  Crie uma classe chamada **BlogPost** com uma propriedade `String` para o título.
-2.  Marque a propriedade como **late**.
-3.  Dentro da função `main`, crie uma instância de **BlogPost**.
-4.  Atribua um título à instância criada.
-5.  Imprima o título do blog post.
-
-**Saída Esperada:**
+1.  Declare uma variável `String` para o título de um post de blog e use a palavra-chave **`late`**.
+2.  Em seguida, atribua o título "Entendendo Variáveis no Dart" a essa variável.
+3.  Imprima o valor da variável.
 
 ```
-Título do post: Entendendo Variáveis no Dart
+O titulo do post é: Entendendo Variáveis no Dart
 ```
 
 -----
@@ -118,7 +115,46 @@ Valor: true, Tipo: bool
 
 -----
 
-### Exercício 7: Tipos Numéricos (`int` e `double`)
+### Exercício 7: Tipo `num`
+
+**Cenário:** Você está desenvolvendo uma função que lida tanto com números inteiros quanto com decimais sem se preocupar com o tipo exato. O tipo `num` é perfeito para isso.
+
+**Sua tarefa:**
+
+1.  Declare uma variável `num` chamada `numeroA` e atribua a ela o valor `100`.
+2.  Declare outra variável `num` chamada `numeroB` e atribua a ela o valor `50.5`.
+3.  Some as duas variáveis e imprima o resultado.
+
+**Saída Esperada:**
+
+```
+A soma dos números é: 150.5
+```
+
+-----
+
+### Exercício 8: Tipos `Object` e `dynamic`
+
+**Cenário:** Você está processando dados de uma fonte externa (como um arquivo JSON) onde o tipo de dado de um valor pode ser desconhecido e variar.
+
+**Sua tarefa:**
+
+1.  Declare uma variável `Object` chamada `dadoObjeto` e atribua a ela o valor `[1, 2, 3]`. Imprima o tipo de dado da variável usando `runtimeType`.
+2.  Declare uma variável `dynamic` chamada `dadoDinamico` e atribua a ela o valor `{"id": 123, "nome": "Exemplo"}`.
+3.  Imprima o tipo de dado da variável `dadoDinamico`.
+4.  Altere o valor de `dadoDinamico` para um número inteiro e imprima novamente o tipo de dado.
+
+**Saída Esperada:**
+
+```
+O tipo do dadoObjeto é: List<int>
+O tipo do dadoDinamico é: _Map<String, Object>
+O tipo do dadoDinamico agora é: int
+```
+
+-----
+
+### Exercício 9: Tipos Numéricos (`int` e `double`)
 
 **Cenário:** Você precisa calcular o valor total de uma compra em um mercado. O preço de um item pode ser um número inteiro, mas o valor da taxa de entrega é um número com casas decimais.
 
@@ -137,7 +173,7 @@ O valor total da compra é: 32.5
 
 -----
 
-### Exercício 8: Tipos de Dados (`String` e `bool`)
+### Exercício 10: Tipos de Dados (`String` e `bool`)
 
 **Cenário:** Você está criando um sistema de login simples. Você precisa armazenar o nome de usuário e verificar se ele está logado.
 
@@ -151,45 +187,6 @@ O valor total da compra é: 32.5
 
 ```
 O usuário admin está logado: true
-```
-
------
-
-### Exercício 9: Tipo `num`
-
-**Cenário:** Você está desenvolvendo uma função que lida tanto com números inteiros quanto com decimais sem se preocupar com o tipo exato. O tipo `num` é perfeito para isso.
-
-**Sua tarefa:**
-
-1.  Declare uma variável `num` chamada `numeroA` e atribua a ela o valor `100`.
-2.  Declare outra variável `num` chamada `numeroB` e atribua a ela o valor `50.5`.
-3.  Some as duas variáveis e imprima o resultado.
-
-**Saída Esperada:**
-
-```
-A soma dos números é: 150.5
-```
-
------
-
-### Exercício 10: Tipos `Object` e `dynamic`
-
-**Cenário:** Você está processando dados de uma fonte externa (como um arquivo JSON) onde o tipo de dado de um valor pode ser desconhecido e variar.
-
-**Sua tarefa:**
-
-1.  Declare uma variável `Object` chamada `dadoObjeto` e atribua a ela o valor `[1, 2, 3]`. Imprima o tipo de dado da variável usando `runtimeType`.
-2.  Declare uma variável `dynamic` chamada `dadoDinamico` e atribua a ela o valor `{"id": 123, "nome": "Exemplo"}`.
-3.  Imprima o tipo de dado da variável `dadoDinamico`.
-4.  Altere o valor de `dadoDinamico` para um número inteiro e imprima novamente o tipo de dado.
-
-**Saída Esperada:**
-
-```
-O tipo do dadoObjeto é: List<int>
-O tipo do dadoDinamico é: _InternalLinkedHashMap<String, Object>
-O tipo do dadoDinamico agora é: int
 ```
 
 -----

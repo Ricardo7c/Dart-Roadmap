@@ -1,5 +1,5 @@
 void main() {
-  final userName = "DartMaster";
-  //userName = "Novo Usuário"
-  print("Nome de usuário: $userName");
+  final USER_NAME = "DartMaster";
+  // USER_NAME = "Novo Usuário"
+  print("Nome de usuário:  $USER_NAME");
 }
