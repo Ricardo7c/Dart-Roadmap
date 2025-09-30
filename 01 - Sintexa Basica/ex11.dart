@@ -1,12 +1,11 @@
 void main(){
-  String idadeTexto = "25";
-  int idadeNumero = int.parse(idadeTexto);
-  
-  String precoTexto = "99.90";
-  double precoNumero = double.parse(precoTexto);
+  int x = 4;
+  int y = 2;
 
-  double soma = idadeNumero + precoNumero;
+  print("X é maior que Y: ${x > y}");
+  print("X é igual a Y: ${x == y}");
+  print("Y é maior que X e menor que 42: ${y>x && y < 42}");
+  print("Y é maior que X ou menor que 42: ${y>x || y < 42}");
 
-  print("A soma dos valores convertidos é: $soma");
 
 }

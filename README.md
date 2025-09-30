@@ -30,25 +30,25 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 * **Estrutura do programa** (`main()`)
 * **Saída de dados simples** (`print`)
-* **Variáveis** (`var`, `final`, `const`, `late`, `dynamic`, `num`, `Object`)
-* **Tipos de dados** (`int`, `double`, `String`, `bool`)
-* **Conversão de tipos**
-* **Strings e formatação** (`interpolação`, métodos úteis)
-* **`null` e Null Safety** (`?`, `??`, `??=`, `?.`)
-* **Entrada e Saida de dados manual** (`stdout.write()`, `stdin.readLineSync()`)
-* **Operadores: aritméticos, relacionais, lógicos, incremento**
+* **Variáveis** (`var`, `final`, `const`, `late`, `dynamic`)
+* **Tipos de dados** (`int`, `double`, `String`, `bool`, `num`, `Object`)
+* **Interpolação e manipulação de strings** (`$string`, `${}`, `length`, `toUpperCase()`,`toLowerCase()`...)
+* **Operadores aritméticos, relacionais e lógicos**
 * **Controle de fluxo** (`if`, `else`, `switch`)
-* **Laços de repetição** (`for`, `for-in`, `while`, `do-while`)
+* **`null` e Null Safety** (`?`, `??`, `??=`, `?.`)
+* **Conversão de tipos**
+* **Laços de repetição e operadores de incremento** (`for`, `for-in`, `while`, `do-while`, `++`, `--`...)
+* **Entrada e Saida no terminal** (`stdout.write()`, `stdin.readLineSync()`)
 
 
 ### **02 - Estruturas de dados simples**
 
-* **List**
+* **List**  (`Lista`)
 * **Set** (`Conjunto`)
 * **Map** (`Dicionário`)
 
 
-### **03 - Funções**
+### **04 - Funções**
 
 * **Definição e Chamada de Funções**
 * **Parâmetros, Retorno e Escopo**

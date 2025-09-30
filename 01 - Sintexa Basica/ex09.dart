@@ -1,6 +1,8 @@
 void main(){
-  int precoProduto = 25;
-  double taxaEntrega = 7.50;
-  double valorTotal = precoProduto + taxaEntrega;
-  print("O valor total da compra é: $valorTotal");
+  String mensagem = "eu gosto de dart";
+  
+  print(mensagem.replaceAll("dart", "programação"));
+  print("Contém 'gosto': ${mensagem.contains("gosto")}");
+
+
 }

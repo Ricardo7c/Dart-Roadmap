@@ -1,10 +1,7 @@
 void main(){
-  dynamic valor = 123;
-  print("Valor: $valor, Tipo: ${valor.runtimeType}");
+  String frase = "Dart é divertido";
 
-  valor = "Exemplo de string";
-  print("Valor: $valor, Tipo: ${valor.runtimeType}");
-  
-  valor = true;
-  print("Valor: $valor, Tipo: ${valor.runtimeType}");
+  print(frase.length);
+  print(frase.toUpperCase());
+  print(frase.toLowerCase());
 }

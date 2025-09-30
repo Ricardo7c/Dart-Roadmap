@@ -1,6 +1,6 @@
 void main(){
-  num numeroA = 100;
-  num numeroB = 50.5;
-  num soma = numeroA + numeroB;
-  print("A soma dos números é: $soma");
+  String produto = "Caneta";
+  double preco = 5;
+
+  print("O produto $produto custo R\$ ${(preco+10).toStringAsFixed(2)}");
 }

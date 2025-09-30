@@ -1,5 +1,7 @@
 void main(){
-  late String tituloPost;
-  tituloPost = "Entendendo Variáveis no Dart";
-  print("O titulo do post é: $tituloPost");
+  String primeiroNome = "Ricardo";
+  String segundoNome = "Silva";
+
+  print("Meu nome completo é $primeiroNome $segundoNome");
+
 }

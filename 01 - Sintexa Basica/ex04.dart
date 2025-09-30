@@ -1,6 +1,8 @@
-void main(){
-  const PI = 3.14159;
-  //PI = 8;
-  print("O valor de PI é: $PI");
+void main() {
+  String nome = "Ricardo";
+  String idade = "35";
+
+  print("Meu nome é $nome e eu tenho $idade anos.");
+
 
 }
