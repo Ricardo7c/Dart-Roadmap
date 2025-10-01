@@ -1,4 +1,4 @@
-## **01: Sintaxe Básica**
+## **01 - Sintaxe Básica**
 
 ---
 

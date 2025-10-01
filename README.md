@@ -26,26 +26,26 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ## **🟢 NÍVEL BÁSICO**
 
-### **01 - Sintaxe básica**
+### **01 - Sintaxe básica** - [Exercícios]()
 
-* **Estrutura do programa** (`main()`)
-* **Saída de dados simples** (`print`)
-* **Variáveis** (`var`, `final`, `const`, `late`, `dynamic`)
-* **Tipos de dados** (`int`, `double`, `String`, `bool`, `num`, `Object`)
-* **Interpolação e manipulação de strings** (`$string`, `${}`, `length`, `toUpperCase()`,`toLowerCase()`...)
+* **Estrutura do programa** 
+* **Saída de dados simples** 
+* **Variáveis** 
+* **Tipos de dados** 
+* **Interpolação e manipulação de strings** 
 * **Operadores aritméticos, relacionais e lógicos**
-* **Controle de fluxo** (`if`, `else`, `switch`)
-* **`null` e Null Safety** (`?`, `??`, `??=`, `?.`)
+* **Controle de fluxo** 
+* **`null` e Null Safety** 
 * **Conversão de tipos**
-* **Laços de repetição e operadores de incremento** (`for`, `for-in`, `while`, `do-while`, `++`, `--`...)
-* **Entrada e Saida no terminal** (`stdout.write()`, `stdin.readLineSync()`)
+* **Laços de repetição e operadores de incremento** 
+* **Entrada e Saida no terminal**
 
 
 ### **02 - Estruturas de dados simples**
 
-* **List**  (`Lista`)
-* **Set** (`Conjunto`)
-* **Map** (`Dicionário`)
+* **List** 
+* **Set** 
+* **Map** 
 
 
 ### **04 - Funções**
