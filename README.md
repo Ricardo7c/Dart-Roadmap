@@ -26,7 +26,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ## **🟢 NÍVEL BÁSICO**
 
-### **01 - Sintaxe básica** - [Exercícios]()
+### **01 - Sintaxe básica** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/9836a0263ed7b5352821cc1a9124de04eaf691ca/01%20-%20Sintexa%20Basica/README.md)
 
 * **Estrutura do programa** 
 * **Saída de dados simples** 
@@ -43,7 +43,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ### **02 - Estruturas de dados simples**
 
-* **List** 
+* **List** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/9836a0263ed7b5352821cc1a9124de04eaf691ca/02%20-%20Estruturas%20de%20dados%20simples/Listas/README.md)
 * **Set** 
 * **Map** 
 
