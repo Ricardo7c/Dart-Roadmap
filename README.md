@@ -44,8 +44,8 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 ### **02 - Estruturas de dados simples**
 
 * **List** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/9836a0263ed7b5352821cc1a9124de04eaf691ca/02%20-%20Estruturas%20de%20dados%20simples/Listas/README.md)
+* **Map** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/eb9212fde2f3ff727207c02f5ffac6562bb03f6d/02%20-%20Estruturas%20de%20dados%20simples/Maps/README.md)
 * **Set** 
-* **Map** 
 
 
 ### **04 - Funções**
