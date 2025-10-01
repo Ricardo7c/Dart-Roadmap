@@ -1,6 +1,5 @@
 ## **01 - Sintaxe Básica**
 
----
 
 **01 - Olá, Mundo!**
 
@@ -16,7 +15,6 @@
 Olá, mundo!
 ```
 
----
 
 **02 - Mensagem Personalizada**
 
@@ -32,7 +30,6 @@ Olá, mundo!
 Olá, Ricardo!
 ```
 
----
 
 **03 - Tipos de Dados**
 
@@ -51,7 +48,6 @@ Nome: Ricardo
 Estuda Dart: true
 ```
 
----
 
 **04 - Interpolação Básica**
 
@@ -67,7 +63,6 @@ Estuda Dart: true
 Meu nome é Ricardo e eu tenho 35 anos.
 ```
 
----
 
 **05 - Concatenando Strings**
 
@@ -83,7 +78,6 @@ Meu nome é Ricardo e eu tenho 35 anos.
 Meu nome completo é Ricardo Silva
 ```
 
----
 
 **06 - Métodos de Strings I**
 
@@ -104,7 +98,6 @@ DART É DIVERTIDO
 dart é divertido
 ```
 
----
 
 **07 - Interpolação Avançada**
 
@@ -120,7 +113,6 @@ dart é divertido
 O produto Caneta custa R$ 15.00
 ```
 
----
 
 **08 - Substrings e Fatiamento**
 
@@ -136,7 +128,6 @@ O produto Caneta custa R$ 15.00
 progr
 ```
 
----
 
 **09 - Substituição e Verificação**
 
@@ -154,7 +145,6 @@ eu gosto de programação
 Contém 'gosto': true
 ```
 
----
 
 **10 - Operadores Aritméticos**
 
@@ -173,7 +163,6 @@ Multiplicação: 50
 Divisão: 2.0
 ```
 
----
 
 **11 - Operadores Relacionais e Lógicos**
 
@@ -202,7 +191,6 @@ Y é maior que X e menor que 42: false
 Y é maior que X ou menor que 42: true
 ```
 
----
 
 **12 - Controle de Fluxo: if/else**
 
@@ -218,7 +206,6 @@ Y é maior que X ou menor que 42: true
 O número é positivo
 ```
 
----
 
 **13 - Controle de Fluxo: switch**
 
@@ -234,7 +221,6 @@ O número é positivo
 Hoje é terça-feira
 ```
 
----
 
 **14 - Null Safety: Operador `??`**
 
@@ -250,7 +236,6 @@ Hoje é terça-feira
 Apelido: Desconhecido
 ```
 
----
 
 **15 - Null Safety: Operador `??=`**
 
@@ -266,7 +251,6 @@ Apelido: Desconhecido
 Rio de Janeiro
 ```
 
----
 
 **16 - Null Safety: Operador `?.`**
 
@@ -282,7 +266,6 @@ Rio de Janeiro
 Comprimento do nome: 7
 ```
 
----
 
 **17 - Conversão de Tipos: int.parse e double.parse**
 
@@ -298,7 +281,6 @@ Comprimento do nome: 7
 Resultado: 15.5
 ```
 
----
 
 **18 - Conversão de Tipos: tryParse**
 
@@ -314,7 +296,6 @@ Resultado: 15.5
 Entrada inválida
 ```
 
----
 
 **19 - Laços: For**
 
@@ -334,7 +315,6 @@ Entrada inválida
 5
 ```
 
----
 
 **20 - Laços: For-In**
 
@@ -356,7 +336,6 @@ d
 o
 ```
 
----
 
 **21 - Laços: While**
 
@@ -376,7 +355,6 @@ o
 1
 ```
 
----
 
 **22 - Laços: Do-While**
 
@@ -394,7 +372,6 @@ o
 3
 ```
 
----
 
 **23 - Entrada e Saída no Terminal**
 
@@ -409,5 +386,3 @@ o
 ```
 Olá, Ricardo! Você tem 35 anos.
 ```
-
-
