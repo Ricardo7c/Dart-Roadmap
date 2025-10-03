@@ -43,7 +43,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Map** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/eb9212fde2f3ff727207c02f5ffac6562bb03f6d/02%20-%20Estruturas%20de%20dados%20simples/Maps/README.md)
 * **Set** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/89dc757df610e726423261c085c1ac11d9146dfd/02%20-%20Estruturas%20de%20dados%20simples/Sets)
 
-### **04 - Funções**
+### **04 - Funções** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/main/03%20-%20Fun%C3%A7%C3%B5es/README.md)
 
 * **Definição e Chamada de Funções**
 * **Parâmetros, Retorno e Escopo**
