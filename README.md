@@ -47,10 +47,11 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 * **Definição e Chamada de Funções**
 * **Parâmetros, Retorno e Escopo**
-* **Parâmetros Nomeados e Opcionais**
 * **Funções Arrow (`=>`)**
-* **Funções Anônimas e Closures**
+* **Closures**
 * **Funções de Ordem Superior**
 * **Funções Recursivas**
 
+---
 
+# **EM PROGRESSO...**

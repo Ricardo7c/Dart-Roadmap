@@ -44,21 +44,7 @@ Bem-vindo, Pedro
 Bem-vindo, Lucas
 ```
 
-**04 - Soma de Dois Números**
-
-**Enunciado:** Crie uma função `soma` que recebe dois inteiros e retorna a soma.
-
-**Objetivo:** Treinar parâmetros múltiplos e retorno.
-
-**Requisitos de Conhecimento:** Funções, parâmetros, operadores aritméticos.
-
-**Exemplo de Saída no Terminal:**
-
-```
-A soma de 3 + 7 é 10
-```
-
-**05 - Escopo Local**
+**04 - Escopo Local**
 
 **Enunciado:** Dentro de uma função `testeEscopo`, crie uma variável local e tente acessá-la fora da função.
 
@@ -73,222 +59,113 @@ Dentro da função: Estou acessível
 Fora da função: Erro! Variável não encontrada
 ```
 
-**06 - Funções que Usam Outras Funções**
+**05 - Soma de Dois Números** `(Posicionais obrigatórios)`
 
-**Enunciado:** Crie uma função `quadrado` e uma função `areaQuadrado` que usa `quadrado` para calcular a área.
+**Enunciado:** Crie uma função `somar` que receba **dois parâmetros posicionais obrigatórios** (números inteiros) e retorne a soma deles. Depois, chame a função no `main` e exiba o resultado no terminal.
 
-**Objetivo:** Treinar a chamada de funções dentro de outras funções.
+**Objetivo:** Treinar o uso de parâmetros posicionais obrigatórios em funções simples.
 
-**Requisitos de Conhecimento:** Funções, operadores aritméticos.
-
-**Exemplo de Saída no Terminal:**
-
-```
-A área de um quadrado de lado 4 é 16
-```
-
-**07 - Criar Usuário (Parâmetros Nomeados)**
-
-**Enunciado:** Crie uma função `criarUsuario` que recebe `nome` e `idade` como parâmetros nomeados e imprime as informações.
-
-**Objetivo:** Aprender parâmetros nomeados.
-
-**Requisitos de Conhecimento:** Funções, parâmetros nomeados.
+**Requisitos de Conhecimento:** Funções, parâmetros posicionais obrigatórios, operadores aritméticos, `print()`.
 
 **Exemplo de Saída no Terminal:**
 
 ```
-Nome: Ricardo, Idade: 25
+A soma de 3 + 7 é 10
 ```
 
-**08 - Usuário com Idade Padrão**
+**06 - Cadastro de Produto** `(Nomeados Opcionais)`
 
-**Enunciado:** Modifique `criarUsuario` para que `idade` seja opcional e tenha valor padrão 18.
+**Enunciado:**
+Crie uma função `cadastrarProduto` que receba:
 
-**Objetivo:** Aprender parâmetros nomeados com valor padrão.
+* um parâmetro posicional obrigatório: `nome` (String)
+* dois parâmetros nomeados opcionais: `preco` (double) e `quantidade` (int).
 
-**Requisitos de Conhecimento:** Funções, parâmetros nomeados e opcionais.
+Se o `preço` não for informada, a função deve assumir os valor padrão `0.0`:
+Se a `quantidade` a função não deve ter valor padrão, ficando `null`.
+
+Depois, no `main`, chame a função passando apenas o nome, depois nome e preço, e por último todos os parâmetros.
+
+**Objetivo:**
+Treinar o uso de **parâmetros nomeados opcionais com valores padrão**.
+
+**Requisitos de Conhecimento:**
+Funções, parâmetros nomeados opcionais, valores padrão, interpolação de Strings.
 
 **Exemplo de Saída no Terminal:**
 
 ```
-Nome: Ana, Idade: 18
+Produto: Lápis, Preço: 0.0, Quantidade: null
+Produto: Caderno, Preço: 15.5, Quantidade: null
+Produto: Caneta, Preço: 3.0, Quantidade: 10
 ```
 
-**09 - Mensagem com Autor Opcional**
 
-**Enunciado:** Crie uma função `mostrarMensagem` que recebe uma `mensagem` obrigatória e um `autor` opcional. Se o autor não for passado, use `"Anônimo"`.
+**07 - Closure com Contador**
 
-**Objetivo:** Treinar parâmetros opcionais posicionais.
+**Enunciado:**
+Crie uma função chamada `criarContador` que retorna uma função (closure).
+Cada vez que essa função retornada for chamada, ela deve incrementar um contador interno e retornar o novo valor.
 
-**Requisitos de Conhecimento:** Funções, parâmetros opcionais.
+No main, crie duas variáveis (contador1 e contador2) que armazenam closures independentes, e chame cada uma várias vezes para mostrar que os valores são mantidos separadamente.
+
+**Objetivo:**
+Entender como closures capturam e mantêm variáveis do escopo léxico.
+
+**Requisitos de Conhecimento:**
+Funções, retorno de funções, variáveis locais, closures.
 
 **Exemplo de Saída no Terminal:**
 
 ```
-Mensagem: Olá pessoal - Autor: Anônimo
+contador1: 1
+contador1: 2
+contador1: 3
+contador2: 1
+contador2: 2
+contador1: 4
 ```
 
-**10 - Dobro Arrow**
 
-**Enunciado:** Refaça a função `dobro` usando a sintaxe arrow.
+**08 - Operações Matemáticas com Função de Ordem Superior**
 
-**Objetivo:** Aprender funções arrow.
+**Enunciado:**
+Crie uma função chamada `executarOperacao` que receba **dois números inteiros** e uma **função** como parâmetros.
+Essa função recebida deve representar uma operação matemática (soma, subtração, multiplicação ou divisão).
+No `main`, crie funções para cada operação e use `executarOperacao` para aplicar diferentes cálculos.
 
-**Requisitos de Conhecimento:** Funções básicas, arrow functions.
+**Objetivo:**
+Praticar o conceito de **função de ordem superior**, passando funções como parâmetro para outras funções.
 
-**Exemplo de Saída no Terminal:**
-
-```
-O dobro de 6 é 12
-```
-
-**11 - Saudação Arrow**
-
-**Enunciado:** Crie uma função arrow `saudar` que recebe um nome e retorna `"Olá, [nome]!"`.
-
-**Objetivo:** Treinar funções arrow com strings.
-
-**Requisitos de Conhecimento:** Funções arrow, interpolação de strings.
-
-**Exemplo de Saída no Terminal:**
-
-```
-Olá, Carla!
-```
-
-**12 - Função Anônima com forEach**
-
-**Enunciado:** Crie uma lista de números `[1, 2, 3, 4]` e use `forEach` com uma função anônima para imprimir cada número.
-
-**Objetivo:** Aprender a usar funções anônimas em coleções.
-
-**Requisitos de Conhecimento:** Listas, funções anônimas, `forEach`.
-
-**Exemplo de Saída no Terminal:**
-
-```
-1
-2
-3
-4
-```
-
-**13 - Função Anônima com map()**
-
-**Enunciado:** Use `map` com uma função anônima para gerar uma nova lista com o quadrado de cada número da lista `[1, 2, 3, 4]`.
-
-**Objetivo:** Treinar funções anônimas e transformação de listas.
-
-**Requisitos de Conhecimento:** Listas, funções anônimas, `map`.
-
-**Exemplo de Saída no Terminal:**
-
-```
-[1, 4, 9, 16]
-```
-
-**14 - Closure com Contador**
-
-**Enunciado:** Crie uma função `contador` que retorna uma função (closure). Cada vez que essa função retornada for chamada, incremente e retorne o valor do contador.
-
-**Objetivo:** Entender closures e escopo léxico.
-
-**Requisitos de Conhecimento:** Funções, escopo, closures.
-
-**Exemplo de Saída no Terminal:**
-
-```
-1
-2
-3
-```
-
-**15 - Executar Função como Parâmetro**
-
-**Enunciado:** Crie uma função `executar` que recebe uma função como parâmetro e a chama.
-
-**Objetivo:** Aprender a passar funções como argumentos.
-
-**Requisitos de Conhecimento:** Funções de ordem superior.
-
-**Exemplo de Saída no Terminal:**
-
-```
-Executando função recebida!
-```
-
-**16 - Aplicar Operação**
-
-**Enunciado:** Crie uma função `aplicarOperacao` que recebe dois números e uma função de operação (ex: soma, multiplicação) e retorna o resultado.
-
-**Objetivo:** Treinar funções de ordem superior para operações dinâmicas.
-
-**Requisitos de Conhecimento:** Funções de ordem superior, operadores aritméticos.
+**Requisitos de Conhecimento:**
+Funções, parâmetros posicionais, funções de ordem superior, operadores aritméticos.
 
 **Exemplo de Saída no Terminal:**
 
 ```
 Soma: 15
+Subtração: 5
 Multiplicação: 50
+Divisão: 2.0
 ```
 
-**17 - Função que Retorna Função (Multiplicador)**
 
-**Enunciado:** Crie uma função `multiplicador` que recebe um número e retorna uma função que multiplica qualquer valor por esse número.
+**09 - Fatorial de um Número**
 
-**Objetivo:** Praticar retorno de funções e closures.
+**Enunciado:**
+Crie uma função chamada `fatorial` que calcule o fatorial de um número inteiro usando **recursão**.
+No `main`, chame a função para diferentes valores e exiba os resultados no terminal.
 
-**Requisitos de Conhecimento:** Funções de ordem superior, closures.
+**Objetivo:**
+Praticar o conceito de **recursão**, entendendo como uma função pode chamar a si mesma.
+
+**Requisitos de Conhecimento:**
+Funções, recursão, operadores aritméticos, `print()`.
 
 **Exemplo de Saída no Terminal:**
 
 ```
-Multiplicando por 3:
-3
-6
-9
-```
-
-**18 - Fatorial Recursivo**
-
-**Enunciado:** Crie uma função recursiva que calcula o fatorial de um número.
-
-**Objetivo:** Treinar lógica recursiva.
-
-**Requisitos de Conhecimento:** Funções, recursão, operadores aritméticos.
-
-**Exemplo de Saída no Terminal:**
-
-```
-Fatorial de 5 = 120
-```
-
-**19 - Fibonacci Recursivo**
-
-**Enunciado:** Crie uma função recursiva que retorna o n-ésimo número da sequência de Fibonacci.
-
-**Objetivo:** Praticar recursão em sequência matemática.
-
-**Requisitos de Conhecimento:** Funções, recursão, operadores aritméticos.
-
-**Exemplo de Saída no Terminal:**
-
-```
-Fibonacci(6) = 8
-```
-
-**20 - Soma Recursiva de Lista**
-
-**Enunciado:** Crie uma função recursiva que soma todos os elementos de uma lista de inteiros.
-
-**Objetivo:** Treinar recursão aplicada a listas.
-
-**Requisitos de Conhecimento:** Funções, listas, recursão.
-
-**Exemplo de Saída no Terminal:**
-
-```
-Lista: [2, 4, 6, 8]
-Soma = 20
+O fatorial de 5 é 120
+O fatorial de 3 é 6
+O fatorial de 0 é 1
 ```
