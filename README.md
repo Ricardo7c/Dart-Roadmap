@@ -53,5 +53,16 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Funções Recursivas**
 
 ---
+## EM PROGRESSO...
 
-# **EM PROGRESSO...**
+### **05 - Orientação a Objetos (OOP) em Dart**
+
+* **Classes e Objetos**
+* **Construtores** (padrão, nomeados, fábrica)
+* **Herança**
+* **Interfaces e implements**
+* **abstract e classes abstratas**
+* **this, super**
+* **Encapsulamento** (private, public)
+* **Getters e Setters**
+* **Operador ..** (cascade notation)

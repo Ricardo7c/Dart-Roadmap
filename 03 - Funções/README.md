@@ -1,4 +1,4 @@
-## **03 - Funções**
+## **Funções**
 
 **01 - Saudação Simples**
 

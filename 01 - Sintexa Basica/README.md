@@ -1,4 +1,4 @@
-## **01 - Sintaxe Básica**
+## **Sintaxe Básica**
 
 
 **01 - Olá, Mundo!**
