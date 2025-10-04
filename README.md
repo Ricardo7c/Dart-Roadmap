@@ -21,48 +21,221 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Instalação do Dart SDK** – [Download](https://dart.dev/get-dart)
 * **Um resumo da sintaxe da linguagem** - [Dart Cheat Sheet](https://github.com/Ricardo7c/Dart-Roadmap/blob/main/cheatsheet.md)
 
-## **🟢 NÍVEL BÁSICO**
 
-### **01 - Sintaxe básica** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/9836a0263ed7b5352821cc1a9124de04eaf691ca/01%20-%20Sintexa%20Basica/README.md)
+## 🟢 **FUNDAMENTOS DA LINGUAGEM**
 
-* **Estrutura do programa** 
-* **Saída de dados simples** 
-* **Variáveis** 
-* **Tipos de dados** 
-* **Interpolação e manipulação de strings** 
-* **Operadores aritméticos, relacionais e lógicos**
-* **Controle de fluxo** 
-* **`null` e Null Safety** 
-* **Conversão de tipos**
-* **Laços de repetição e operadores de incremento** 
-* **Entrada e Saida no terminal**
+### **01 - Estrutura do Programa**
 
-### **02 - Estruturas de dados simples**
+Como funciona um arquivo Dart.
 
-* **List** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/9836a0263ed7b5352821cc1a9124de04eaf691ca/02%20-%20Estruturas%20de%20dados%20simples/Listas/README.md)
-* **Map** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/eb9212fde2f3ff727207c02f5ffac6562bb03f6d/02%20-%20Estruturas%20de%20dados%20simples/Maps/README.md)
-* **Set** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/89dc757df610e726423261c085c1ac11d9146dfd/02%20-%20Estruturas%20de%20dados%20simples/Sets)
+* Função `main()` como ponto de entrada
+* Comentários (`//` e `/* */`)
 
-### **04 - Funções** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/blob/main/03%20-%20Fun%C3%A7%C3%B5es/README.md)
 
-* **Definição e Chamada de Funções**
-* **Parâmetros, Retorno e Escopo**
-* **Funções Arrow (`=>`)**
-* **Closures**
-* **Funções de Ordem Superior**
-* **Funções Recursivas**
+### **02 - Saída de Dados**
 
----
-## EM PROGRESSO...
+Mostrando informações no terminal.
 
-### **05 - Orientação a Objetos (OOP) em Dart**
+* Usando `print()` para exibir texto e valores
 
-* **Classes e Objetos**
-* **Construtores** (padrão, nomeados, fábrica)
-* **Herança**
-* **Interfaces e implements**
-* **abstract e classes abstratas**
-* **this, super**
-* **Encapsulamento** (private, public)
-* **Getters e Setters**
-* **Operador ..** (cascade notation)
+
+### **03 - Variáveis e Tipos de Dados**
+
+Guardando informações na memória.
+
+* `var`, `final`, `const`
+* Tipos básicos: `int`, `double`, `String`, `bool`
+
+
+### **04 - Interpolação e Manipulação de Strings**
+
+Trabalhando com texto.
+
+* Interpolação (`"Olá $nome"`)
+* Métodos úteis: `length`, `toUpperCase()`, `contains()`
+
+
+### **05 - Operadores**
+
+Fazendo cálculos e comparações.
+
+* Aritméticos: `+ - * / %`
+* Relacionais: `== != > < >= <=`
+* Lógicos: `&& || !`
+
+
+### **06 - Controle de Fluxo**
+
+Tomando decisões no programa.
+
+* `if / else`
+* `switch / case`
+
+
+### **07 - Null e Null Safety**
+
+Evitando erros com valores nulos.
+
+* `?` (variáveis que podem ser nulas)
+* `!` (null assertion)
+* `??` (valor padrão)
+
+
+### **08 - Conversão de Tipos**
+
+Transformando valores de um tipo em outro.
+
+* `toString()`, `int.parse()`, `double.parse()`
+* `toInt()`, `toDouble()`
+
+
+### **09 - Laços de Repetição**
+
+Executando blocos de código várias vezes.
+
+* `for` e `for-in`
+* `while` e `do-while`
+* Operadores de incremento (`++`, `--`)
+
+
+### **10 - Entrada de Dados no Terminal**
+
+Recebendo informações do usuário.
+
+* Usando `stdin.readLineSync()`
+
+## 🔵 **ESTRUTURAS DE DADOS SIMPLES**
+
+### **01 - List (Listas)**
+
+Coleção ordenada de elementos, acessados por índice.
+
+* Criando listas
+* Acessando e modificando elementos
+* Métodos principais: `add`, `remove`, `insert`, `sort`
+* Iterando com `for` e `for-in`
+
+
+### **02 - Map (Dicionários/Chave-Valor)**
+
+Estrutura que armazena pares **chave → valor**.
+
+* Criando e acessando valores por chave
+* Adicionando e removendo pares
+* Iterando sobre chaves e valores
+* Métodos úteis: `containsKey`, `containsValue`, `forEach`
+
+
+### **03 - Set (Conjuntos)**
+
+Coleção de elementos **únicos**, sem ordem fixa.
+
+* Criando conjuntos
+* Garantindo valores sem duplicatas
+* Operações de conjuntos: união, interseção, diferença
+* Métodos principais: `add`, `remove`, `contains`, `retainWhere`
+
+## 🟡 **FUNÇÕES**
+
+### **01 - Definição e Chamada de Funções**
+
+Aprenda a criar funções simples e chamá-las.
+
+* Estrutura básica (`void` e funções que retornam valores)
+* Organização do código em blocos reutilizáveis
+
+
+### **02 - Parâmetros, Retorno e Escopo**
+
+Controle a entrada e saída de dados de uma função.
+
+* Parâmetros obrigatórios
+* Parâmetros opcionais e nomeados
+* Valor de retorno (`return`)
+* Escopo de variáveis (local vs global)
+
+
+### **03 - Funções Arrow (`=>`)**
+
+Sintaxe curta e prática para funções pequenas.
+
+* Diferença entre `function() {}` e `function() => ...`
+* Quando usar arrow functions
+
+
+### **04 - Closures**
+
+Funções que **guardam o contexto** onde foram criadas.
+
+* Escopo léxico
+* Uso prático de variáveis preservadas dentro da função
+
+
+### **05 - Funções de Ordem Superior**
+
+Funções que recebem ou retornam outras funções.
+
+* Passando funções como parâmetro
+* Retornando funções
+* Uso comum com `map`, `where`, `forEach`
+
+
+### **06 - Funções Recursivas**
+
+Funções que chamam a si mesmas.
+
+* Conceito de recursão
+* Casos de parada (evitar loops infinitos)
+* Exemplos: fatorial, Fibonacci
+
+
+## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
+
+### **01 - Classes e Objetos**
+
+Entenda o que são **modelos (classes)** e **instâncias (objetos)**.
+Crie suas primeiras classes com atributos e métodos.
+
+
+### **02 - Construtores**
+
+Aprenda a inicializar objetos corretamente.
+
+* Construtor padrão
+* Construtores nomeados
+* Construtor factory (quando precisamos mais controle)
+
+
+### **03 - Encapsulamento e Acesso**
+
+Proteja os atributos da sua classe.
+
+* `public` (padrão) e `private` (prefixo `_`)
+* **Getters e Setters** para controlar leitura/escrita
+
+
+### **04 - Herança e Reuso**
+
+Reaproveite código com `extends`.
+
+* Herdando atributos e métodos
+* Usando `super` para acessar a classe mãe
+
+
+### **05 - Polimorfismo e Interfaces**
+
+Torne seu código flexível e extensível.
+
+* **Polimorfismo** (sobrescrita de métodos)
+* `abstract` (classes abstratas)
+* `implements` (interfaces em Dart)
+
+
+### **06 - Recursos Especiais do Dart**
+
+Recursos úteis no dia a dia do Flutter:
+
+* `this` (referência ao próprio objeto)
+* **Cascade notation (`..`)** para encadear chamadas
+* Mixins (para compartilhar código sem herança múltipla)
+
