@@ -26,42 +26,35 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ### **01 - Estrutura do Programa**
 
-Como funciona um arquivo Dart.
+**Como funciona um arquivo Dart, mostrando informações no terminal.**
 
 * Função `main()` como ponto de entrada
+* Usando `print()` para exibir texto e valores
 * Comentários (`//` e `/* */`)
 
 ---
 
-### **02 - Saída de Dados**
+### **02 - Variáveis e Tipos de Dados**
 
-Mostrando informações no terminal.
-
-* Usando `print()` para exibir texto e valores
-
----
-
-### **03 - Variáveis e Tipos de Dados**
-
-Guardando informações na memória.
+**Guardando informações na memória.**
 
 * `var`, `final`, `const`
 * Tipos básicos: `int`, `double`, `String`, `bool`
 
 ---
 
-### **04 - Interpolação e Manipulação de Strings**
+### **03 - Interpolação e Manipulação de Strings**
 
-Trabalhando com texto.
+**Trabalhando com texto.**
 
 * Interpolação (`"Olá $nome"`)
 * Métodos úteis: `length`, `toUpperCase()`, `contains()`
 
 ---
 
-### **05 - Operadores**
+### **04 - Operadores**
 
-Fazendo cálculos e comparações.
+**Fazendo cálculos e comparações.**
 
 * Aritméticos: `+ - * / %`
 * Relacionais: `== != > < >= <=`
@@ -69,18 +62,18 @@ Fazendo cálculos e comparações.
 
 ---
 
-### **06 - Controle de Fluxo**
+### **05 - Controle de Fluxo**
 
-Tomando decisões no programa.
+**Tomando decisões no programa.**
 
 * `if / else`
 * `switch / case`
 
 ---
 
-### **07 - Null e Null Safety**
+### **06 - Null e Null Safety**
 
-Evitando erros com valores nulos.
+**Evitando erros com valores nulos.**
 
 * `?` (variáveis que podem ser nulas)
 * `!` (null assertion)
@@ -88,18 +81,18 @@ Evitando erros com valores nulos.
 
 ---
 
-### **08 - Conversão de Tipos**
+### **07 - Conversão de Tipos**
 
-Transformando valores de um tipo em outro.
+**Transformando valores de um tipo em outro.**
 
 * `toString()`, `int.parse()`, `double.parse()`
 * `toInt()`, `toDouble()`
 
 ---
 
-### **09 - Laços de Repetição**
+### **08 - Laços de Repetição**
 
-Executando blocos de código várias vezes.
+**Executando blocos de código várias vezes.**
 
 * `for` e `for-in`
 * `while` e `do-while`
@@ -107,17 +100,19 @@ Executando blocos de código várias vezes.
 
 ---
 
-### **10 - Entrada de Dados no Terminal**
+### **09 - Entrada de Dados no Terminal**
 
-Recebendo informações do usuário.
+**Recebendo informações do usuário.**
 
 * Usando `stdin.readLineSync()`
+
+---
 
 ## 🔵 **ESTRUTURAS DE DADOS SIMPLES**
 
 ### **01 - List (Listas)**
 
-Coleção ordenada de elementos, acessados por índice.
+**Coleção ordenada de elementos, acessados por índice.**
 
 * Criando listas
 * Acessando e modificando elementos
@@ -128,7 +123,7 @@ Coleção ordenada de elementos, acessados por índice.
 
 ### **02 - Map (Dicionários/Chave-Valor)**
 
-Estrutura que armazena pares **chave → valor**.
+**Estrutura que armazena pares *chave → valor*.**
 
 * Criando e acessando valores por chave
 * Adicionando e removendo pares
@@ -139,7 +134,7 @@ Estrutura que armazena pares **chave → valor**.
 
 ### **03 - Set (Conjuntos)**
 
-Coleção de elementos **únicos**, sem ordem fixa.
+**Coleção de elementos **únicos**, sem ordem fixa.**
 
 * Criando conjuntos
 * Garantindo valores sem duplicatas
@@ -152,7 +147,7 @@ Coleção de elementos **únicos**, sem ordem fixa.
 
 ### **01 - Definição e Chamada de Funções**
 
-Aprenda a criar funções simples e chamá-las.
+**Aprenda a criar funções simples e chamá-las.**
 
 * Estrutura básica (`void` e funções que retornam valores)
 * Organização do código em blocos reutilizáveis
@@ -161,7 +156,7 @@ Aprenda a criar funções simples e chamá-las.
 
 ### **02 - Parâmetros, Retorno e Escopo**
 
-Controle a entrada e saída de dados de uma função.
+**Controle a entrada e saída de dados de uma função.**
 
 * Parâmetros obrigatórios
 * Parâmetros opcionais e nomeados
@@ -172,7 +167,7 @@ Controle a entrada e saída de dados de uma função.
 
 ### **03 - Funções Arrow (`=>`)**
 
-Sintaxe curta e prática para funções pequenas.
+**Sintaxe curta e prática para funções pequenas.**
 
 * Diferença entre `function() {}` e `function() => ...`
 * Quando usar arrow functions
@@ -181,7 +176,7 @@ Sintaxe curta e prática para funções pequenas.
 
 ### **04 - Closures**
 
-Funções que **guardam o contexto** onde foram criadas.
+**Funções que *'guardam o contexto'* onde foram criadas.**
 
 * Escopo léxico
 * Uso prático de variáveis preservadas dentro da função
@@ -190,7 +185,7 @@ Funções que **guardam o contexto** onde foram criadas.
 
 ### **05 - Funções de Ordem Superior**
 
-Funções que recebem ou retornam outras funções.
+**Funções que recebem ou retornam outras funções.**
 
 * Passando funções como parâmetro
 * Retornando funções
@@ -200,7 +195,7 @@ Funções que recebem ou retornam outras funções.
 
 ### **06 - Funções Recursivas**
 
-Funções que chamam a si mesmas.
+**Funções que chamam a si mesmas.**
 
 * Conceito de recursão
 * Casos de parada (evitar loops infinitos)
@@ -210,16 +205,19 @@ Funções que chamam a si mesmas.
 
 ## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
 
-### **01 - Classes e Objetos**
+### **01 - Classes, Objetos e Construtores**
 
-Entenda o que são **modelos (classes)** e **instâncias (objetos)**.
-Crie suas primeiras classes com atributos e métodos.
+**Aprenda a criar uma classe**
+
+* Classes (molde)
+* Objetos (instancia)
+* Metodos (ações)
 
 ---
 
 ### **02 - Construtores**
 
-Aprenda a inicializar objetos corretamente.
+**Aprenda a inicializar objetos corretamente.**
 
 * Construtor padrão
 * Construtores nomeados
@@ -229,7 +227,7 @@ Aprenda a inicializar objetos corretamente.
 
 ### **03 - Encapsulamento e Acesso**
 
-Proteja os atributos da sua classe.
+**Proteja os atributos da sua classe.**
 
 * `public` (padrão) e `private` (prefixo `_`)
 * **Getters e Setters** para controlar leitura/escrita
@@ -238,7 +236,7 @@ Proteja os atributos da sua classe.
 
 ### **04 - Herança e Reuso**
 
-Reaproveite código com `extends`.
+**Reaproveite código com `extends`.**
 
 * Herdando atributos e métodos
 * Usando `super` para acessar a classe mãe
@@ -247,7 +245,7 @@ Reaproveite código com `extends`.
 
 ### **05 - Polimorfismo e Interfaces**
 
-Torne seu código flexível e extensível.
+**Torne seu código flexível e extensível.**
 
 * **Polimorfismo** (sobrescrita de métodos)
 * `abstract` (classes abstratas)
@@ -257,7 +255,7 @@ Torne seu código flexível e extensível.
 
 ### **06 - Recursos Especiais do Dart**
 
-Recursos úteis no dia a dia do Flutter:
+**Recursos úteis no dia a dia do Flutter:**
 
 * `this` (referência ao próprio objeto)
 * **Cascade notation (`..`)** para encadear chamadas
