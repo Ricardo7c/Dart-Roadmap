@@ -24,7 +24,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ## 🟢 **FUNDAMENTOS DA LINGUAGEM**
 
-### **01 - Estrutura do Programa**
+### **01 - Estrutura do Programa** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/16977cc2883a4f4b88dfc429503a0bdc708a634d/01%20-%20Fundamentos%20da%20Linguagem/01%20-%20Estrutura%20do%20programa)
 
 **Como funciona um arquivo Dart, mostrando informações no terminal.**
 
@@ -34,7 +34,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **02 - Interpolação, Variáveis e Tipos de Dados**
+### **02 - Interpolação, Variáveis e Tipos de Dados** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/16977cc2883a4f4b88dfc429503a0bdc708a634d/01%20-%20Fundamentos%20da%20Linguagem/02%20-%20Variaveis%20e%20tipos%20de%20dados)
 
 **Guardando informações na memória e exibir na tela**
 
@@ -44,7 +44,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **03 - Conversão de Tipos e Manipulação de Strings**
+### **03 - Conversão de Tipos e Manipulação de Strings** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/16977cc2883a4f4b88dfc429503a0bdc708a634d/01%20-%20Fundamentos%20da%20Linguagem/03%20-%20Convers%C3%A3o%20de%20tipos%20e%20manipula%C3%A7%C3%A3o%20de%20strings)
 
 **Transformando valores de um tipo em outro e modificando texto**
 
@@ -54,7 +54,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **04 - Operadores**
+### **04 - Operadores** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/16977cc2883a4f4b88dfc429503a0bdc708a634d/01%20-%20Fundamentos%20da%20Linguagem/04%20-%20Operadores)
 
 **Fazendo cálculos e comparações.**
 
