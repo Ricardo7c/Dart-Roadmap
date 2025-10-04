@@ -32,7 +32,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Usando `print()` para exibir texto e valores
 * Comentários (`//` e `/* */`)
 
----
+#
 
 ### **02 - Variáveis e Tipos de Dados**
 
@@ -41,7 +41,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `var`, `final`, `const`
 * Tipos básicos: `int`, `double`, `String`, `bool`
 
----
+#
 
 ### **03 - Interpolação e Manipulação de Strings**
 
@@ -50,7 +50,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Interpolação (`"Olá $nome"`)
 * Métodos úteis: `length`, `toUpperCase()`, `contains()`
 
----
+#
 
 ### **04 - Operadores**
 
@@ -60,7 +60,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Relacionais: `== != > < >= <=`
 * Lógicos: `&& || !`
 
----
+#
 
 ### **05 - Controle de Fluxo**
 
@@ -69,7 +69,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `if / else`
 * `switch / case`
 
----
+#
 
 ### **06 - Null e Null Safety**
 
@@ -79,7 +79,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `!` (null assertion)
 * `??` (valor padrão)
 
----
+#
 
 ### **07 - Conversão de Tipos**
 
@@ -88,7 +88,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `toString()`, `int.parse()`, `double.parse()`
 * `toInt()`, `toDouble()`
 
----
+#
 
 ### **08 - Laços de Repetição**
 
@@ -98,7 +98,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `while` e `do-while`
 * Operadores de incremento (`++`, `--`)
 
----
+#
 
 ### **09 - Entrada de Dados no Terminal**
 
@@ -106,7 +106,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 * Usando `stdin.readLineSync()`
 
----
+#
 
 ## 🔵 **ESTRUTURAS DE DADOS SIMPLES**
 
@@ -119,7 +119,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Métodos principais: `add`, `remove`, `insert`, `sort`
 * Iterando com `for` e `for-in`
 
----
+#
 
 ### **02 - Map (Dicionários/Chave-Valor)**
 
@@ -130,7 +130,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Iterando sobre chaves e valores
 * Métodos úteis: `containsKey`, `containsValue`, `forEach`
 
----
+#
 
 ### **03 - Set (Conjuntos)**
 
@@ -141,7 +141,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Operações de conjuntos: união, interseção, diferença
 * Métodos principais: `add`, `remove`, `contains`, `retainWhere`
 
----
+#
 
 ## 🟡 **FUNÇÕES**
 
@@ -152,7 +152,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Estrutura básica (`void` e funções que retornam valores)
 * Organização do código em blocos reutilizáveis
 
----
+#
 
 ### **02 - Parâmetros, Retorno e Escopo**
 
@@ -163,7 +163,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Valor de retorno (`return`)
 * Escopo de variáveis (local vs global)
 
----
+#
 
 ### **03 - Funções Arrow (`=>`)**
 
@@ -172,7 +172,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Diferença entre `function() {}` e `function() => ...`
 * Quando usar arrow functions
 
----
+#
 
 ### **04 - Closures**
 
@@ -181,7 +181,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Escopo léxico
 * Uso prático de variáveis preservadas dentro da função
 
----
+#
 
 ### **05 - Funções de Ordem Superior**
 
@@ -191,7 +191,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Retornando funções
 * Uso comum com `map`, `where`, `forEach`
 
----
+#
 
 ### **06 - Funções Recursivas**
 
@@ -201,7 +201,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Casos de parada (evitar loops infinitos)
 * Exemplos: fatorial, Fibonacci
 
----
+#
 
 ## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
 
@@ -213,7 +213,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Objetos (instancia)
 * Metodos (ações)
 
----
+#
 
 ### **02 - Construtores**
 
@@ -223,7 +223,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Construtores nomeados
 * Construtor factory (quando precisamos mais controle)
 
----
+#
 
 ### **03 - Encapsulamento e Acesso**
 
@@ -232,7 +232,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `public` (padrão) e `private` (prefixo `_`)
 * **Getters e Setters** para controlar leitura/escrita
 
----
+#
 
 ### **04 - Herança e Reuso**
 
@@ -241,7 +241,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Herdando atributos e métodos
 * Usando `super` para acessar a classe mãe
 
----
+#
 
 ### **05 - Polimorfismo e Interfaces**
 
@@ -251,7 +251,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `abstract` (classes abstratas)
 * `implements` (interfaces em Dart)
 
----
+#
 
 ### **06 - Recursos Especiais do Dart**
 
