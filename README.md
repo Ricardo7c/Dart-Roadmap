@@ -34,21 +34,23 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **02 - Variáveis e Tipos de Dados**
+### **02 - Interpolação, Variáveis e Tipos de Dados**
 
-**Guardando informações na memória.**
+**Guardando informações na memória e exibir na tela**
 
-* `var`, `final`, `const`
+* Interpolação `"Olá $nome"`
+* Variaveis `var`, `final`, `const`
 * Tipos básicos: `int`, `double`, `String`, `bool`
 
 #
 
-### **03 - Interpolação e Manipulação de Strings**
+### **03 - Conversão de Tipos e Manipulação de Strings**
 
-**Trabalhando com texto.**
+**Transformando valores de um tipo em outro e modificando texto**
 
-* Interpolação (`"Olá $nome"`)
-* Métodos úteis: `length`, `toUpperCase()`, `contains()`
+* `toString()`, `int.parse()`, `double.parse()`
+* `toInt()`, `toDouble()`
+* `length`, `toUpperCase()`, `contains()`
 
 #
 
@@ -79,18 +81,10 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `!` (null assertion)
 * `??` (valor padrão)
 
-#
-
-### **07 - Conversão de Tipos**
-
-**Transformando valores de um tipo em outro.**
-
-* `toString()`, `int.parse()`, `double.parse()`
-* `toInt()`, `toDouble()`
 
 #
 
-### **08 - Laços de Repetição**
+### **07 - Laços de Repetição**
 
 **Executando blocos de código várias vezes.**
 
@@ -100,7 +94,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **09 - Entrada de Dados no Terminal**
+### **08 - Entrada de Dados no Terminal**
 
 **Recebendo informações do usuário.**
 
