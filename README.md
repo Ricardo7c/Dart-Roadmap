@@ -31,6 +31,7 @@ Como funciona um arquivo Dart.
 * Função `main()` como ponto de entrada
 * Comentários (`//` e `/* */`)
 
+---
 
 ### **02 - Saída de Dados**
 
@@ -38,6 +39,7 @@ Mostrando informações no terminal.
 
 * Usando `print()` para exibir texto e valores
 
+---
 
 ### **03 - Variáveis e Tipos de Dados**
 
@@ -46,6 +48,7 @@ Guardando informações na memória.
 * `var`, `final`, `const`
 * Tipos básicos: `int`, `double`, `String`, `bool`
 
+---
 
 ### **04 - Interpolação e Manipulação de Strings**
 
@@ -54,6 +57,7 @@ Trabalhando com texto.
 * Interpolação (`"Olá $nome"`)
 * Métodos úteis: `length`, `toUpperCase()`, `contains()`
 
+---
 
 ### **05 - Operadores**
 
@@ -63,6 +67,7 @@ Fazendo cálculos e comparações.
 * Relacionais: `== != > < >= <=`
 * Lógicos: `&& || !`
 
+---
 
 ### **06 - Controle de Fluxo**
 
@@ -71,6 +76,7 @@ Tomando decisões no programa.
 * `if / else`
 * `switch / case`
 
+---
 
 ### **07 - Null e Null Safety**
 
@@ -80,6 +86,7 @@ Evitando erros com valores nulos.
 * `!` (null assertion)
 * `??` (valor padrão)
 
+---
 
 ### **08 - Conversão de Tipos**
 
@@ -88,6 +95,7 @@ Transformando valores de um tipo em outro.
 * `toString()`, `int.parse()`, `double.parse()`
 * `toInt()`, `toDouble()`
 
+---
 
 ### **09 - Laços de Repetição**
 
@@ -97,6 +105,7 @@ Executando blocos de código várias vezes.
 * `while` e `do-while`
 * Operadores de incremento (`++`, `--`)
 
+---
 
 ### **10 - Entrada de Dados no Terminal**
 
@@ -115,6 +124,7 @@ Coleção ordenada de elementos, acessados por índice.
 * Métodos principais: `add`, `remove`, `insert`, `sort`
 * Iterando com `for` e `for-in`
 
+---
 
 ### **02 - Map (Dicionários/Chave-Valor)**
 
@@ -125,6 +135,7 @@ Estrutura que armazena pares **chave → valor**.
 * Iterando sobre chaves e valores
 * Métodos úteis: `containsKey`, `containsValue`, `forEach`
 
+---
 
 ### **03 - Set (Conjuntos)**
 
@@ -135,6 +146,8 @@ Coleção de elementos **únicos**, sem ordem fixa.
 * Operações de conjuntos: união, interseção, diferença
 * Métodos principais: `add`, `remove`, `contains`, `retainWhere`
 
+---
+
 ## 🟡 **FUNÇÕES**
 
 ### **01 - Definição e Chamada de Funções**
@@ -144,6 +157,7 @@ Aprenda a criar funções simples e chamá-las.
 * Estrutura básica (`void` e funções que retornam valores)
 * Organização do código em blocos reutilizáveis
 
+---
 
 ### **02 - Parâmetros, Retorno e Escopo**
 
@@ -154,6 +168,7 @@ Controle a entrada e saída de dados de uma função.
 * Valor de retorno (`return`)
 * Escopo de variáveis (local vs global)
 
+---
 
 ### **03 - Funções Arrow (`=>`)**
 
@@ -162,6 +177,7 @@ Sintaxe curta e prática para funções pequenas.
 * Diferença entre `function() {}` e `function() => ...`
 * Quando usar arrow functions
 
+---
 
 ### **04 - Closures**
 
@@ -170,6 +186,7 @@ Funções que **guardam o contexto** onde foram criadas.
 * Escopo léxico
 * Uso prático de variáveis preservadas dentro da função
 
+---
 
 ### **05 - Funções de Ordem Superior**
 
@@ -179,6 +196,7 @@ Funções que recebem ou retornam outras funções.
 * Retornando funções
 * Uso comum com `map`, `where`, `forEach`
 
+---
 
 ### **06 - Funções Recursivas**
 
@@ -188,6 +206,7 @@ Funções que chamam a si mesmas.
 * Casos de parada (evitar loops infinitos)
 * Exemplos: fatorial, Fibonacci
 
+---
 
 ## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
 
@@ -196,6 +215,7 @@ Funções que chamam a si mesmas.
 Entenda o que são **modelos (classes)** e **instâncias (objetos)**.
 Crie suas primeiras classes com atributos e métodos.
 
+---
 
 ### **02 - Construtores**
 
@@ -205,6 +225,7 @@ Aprenda a inicializar objetos corretamente.
 * Construtores nomeados
 * Construtor factory (quando precisamos mais controle)
 
+---
 
 ### **03 - Encapsulamento e Acesso**
 
@@ -213,6 +234,7 @@ Proteja os atributos da sua classe.
 * `public` (padrão) e `private` (prefixo `_`)
 * **Getters e Setters** para controlar leitura/escrita
 
+---
 
 ### **04 - Herança e Reuso**
 
@@ -221,6 +243,7 @@ Reaproveite código com `extends`.
 * Herdando atributos e métodos
 * Usando `super` para acessar a classe mãe
 
+---
 
 ### **05 - Polimorfismo e Interfaces**
 
@@ -230,6 +253,7 @@ Torne seu código flexível e extensível.
 * `abstract` (classes abstratas)
 * `implements` (interfaces em Dart)
 
+---
 
 ### **06 - Recursos Especiais do Dart**
 
