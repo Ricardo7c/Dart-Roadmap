@@ -78,7 +78,6 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 **Evitando erros com valores nulos.**
 
 * `?` (variáveis que podem ser nulas)
-* `!` (null assertion)
 * `??` (valor padrão)
 
 
