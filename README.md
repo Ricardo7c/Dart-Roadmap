@@ -64,7 +64,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **05 - Controle de Fluxo**
+### **05 - Controle de Fluxo** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/22c653c1451e69536b92c7bc37f089330c4b1ed7/01%20-%20Fundamentos%20da%20Linguagem/05%20-%20Controle%20de%20fluxo)
 
 **Tomando decisões no programa.**
 
@@ -73,7 +73,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **06 - Null e Null Safety**
+### **06 - Null e Null Safety** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/22c653c1451e69536b92c7bc37f089330c4b1ed7/01%20-%20Fundamentos%20da%20Linguagem/06%20-%20Null%20e%20Null%20Safety)
 
 **Evitando erros com valores nulos.**
 
@@ -83,7 +83,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **07 - Laços de Repetição**
+### **07 - Laços de Repetição** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/22c653c1451e69536b92c7bc37f089330c4b1ed7/01%20-%20Fundamentos%20da%20Linguagem/07%20-%20La%C3%A7os%20de%20repeti%C3%A7%C3%A3o)
 
 **Executando blocos de código várias vezes.**
 
@@ -93,7 +93,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **08 - Bibliotecas built-in**
+### **08 - Bibliotecas built-in** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/22c653c1451e69536b92c7bc37f089330c4b1ed7/01%20-%20Fundamentos%20da%20Linguagem/08%20-%20Bibliotecas%20Built-in)
 
 **Inportando e usando bibliotecas padrão**
 
