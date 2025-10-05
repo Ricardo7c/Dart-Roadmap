@@ -93,11 +93,13 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **08 - Entrada de Dados no Terminal**
+### **08 - Bibliotecas built-in**
 
-**Recebendo informações do usuário.**
+**Inportando e usando bibliotecas padrão**
 
-* Usando `stdin.readLineSync()`
+* Entrada de dados `dart:io`
+* Operações matématicas `dart:math`
+
 
 #
 
