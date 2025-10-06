@@ -112,22 +112,10 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Criando listas
 * Acessando e modificando elementos
 * Métodos principais: `add`, `remove`, `insert`, `sort`
-* Iterando com `for` e `for-in`
 
 #
 
-### **02 - Map (Dicionários/Chave-Valor)**
-
-**Estrutura que armazena pares *chave → valor*.**
-
-* Criando e acessando valores por chave
-* Adicionando e removendo pares
-* Iterando sobre chaves e valores
-* Métodos úteis: `containsKey`, `containsValue`, `forEach`
-
-#
-
-### **03 - Set (Conjuntos)**
+### **02 - Set (Conjuntos)**
 
 **Coleção de elementos **únicos**, sem ordem fixa.**
 
@@ -135,6 +123,17 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Garantindo valores sem duplicatas
 * Operações de conjuntos: união, interseção, diferença
 * Métodos principais: `add`, `remove`, `contains`, `retainWhere`
+
+#
+
+### **03 - Map (Dicionários/Chave-Valor)**
+
+**Estrutura que armazena pares *chave → valor*.**
+
+* Criando e acessando valores por chave
+* Adicionando e removendo pares
+* Iterando sobre chaves e valores
+* Métodos úteis: `containsKey`, `containsValue`, `forEach`
 
 #
 
