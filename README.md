@@ -105,7 +105,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ## 🔵 **ESTRUTURAS DE DADOS SIMPLES**
 
-### **01 - List (Listas)**
+### **01 - List (Listas)** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/7d360a17c5cbd6c37d22f639f4e6e7c348aadfe3/02%20-%20Estruturas%20de%20Dados%20Simples/01%20-%20Listas)
 
 **Coleção ordenada de elementos, acessados por índice.**
 
@@ -115,7 +115,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **02 - Set (Conjuntos)**
+### **02 - Set (Conjuntos)** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/7d360a17c5cbd6c37d22f639f4e6e7c348aadfe3/02%20-%20Estruturas%20de%20Dados%20Simples/02%20-%20Sets)
 
 **Coleção de elementos **únicos**, sem ordem fixa.**
 
@@ -126,14 +126,14 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **03 - Map (Dicionários/Chave-Valor)**
+### **03 - Map (Dicionários/Chave-Valor)** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/7d360a17c5cbd6c37d22f639f4e6e7c348aadfe3/02%20-%20Estruturas%20de%20Dados%20Simples/03%20-%20Maps)
 
 **Estrutura que armazena pares *chave → valor*.**
 
 * Criando e acessando valores por chave
 * Adicionando e removendo pares
 * Iterando sobre chaves e valores
-* Métodos úteis: `containsKey`, `containsValue`, `forEach`
+* Métodos úteis: `containsKey`, `containsValue`
 
 #
 
