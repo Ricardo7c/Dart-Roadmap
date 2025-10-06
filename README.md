@@ -143,7 +143,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 **Aprenda a criar funções simples e chamá-las.**
 
-* Estrutura básica (`void` e funções que retornam valores)
+* Estrutura básica
 * Organização do código em blocos reutilizáveis
 
 #
