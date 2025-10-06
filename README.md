@@ -148,7 +148,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **02 - Parâmetros, Retorno e Escopo** - [Exercícios]{https://github.com/Ricardo7c/Dart-Roadmap/tree/6e9b81790633964fb81ab4aa8124820bce542382/03%20-%20Fun%C3%A7%C3%B5es/02%20-%20Par%C3%A2metros%2C%20Retorno%20e%20Escopo}
+### **02 - Parâmetros, Retorno e Escopo** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/6e9b81790633964fb81ab4aa8124820bce542382/03%20-%20Fun%C3%A7%C3%B5es/02%20-%20Par%C3%A2metros%2C%20Retorno%20e%20Escopo)
 
 **Controle a entrada e saída de dados de uma função.**
 
