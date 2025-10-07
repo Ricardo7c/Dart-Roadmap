@@ -159,7 +159,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **03 - Funções Arrow (`=>`) e Funções anonimas**
+### **03 - Funções Arrow (`=>`) e Funções anonimas** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/c2e16e8c6711d683298758b5193445f58241c26a/03%20-%20Fun%C3%A7%C3%B5es/03%20-%20Fun%C3%A7%C3%B5es%20Arrow)
 
 **Sintaxe curta e prática para funções pequenas.**
 
@@ -168,7 +168,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **04 - Funções de Ordem Superior e Closures**
+### **04 - Funções de Ordem Superior e Closures** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/c2e16e8c6711d683298758b5193445f58241c26a/03%20-%20Fun%C3%A7%C3%B5es/04%20-Fun%C3%A7%C3%B5es%20de%20Ordem%20Superior%20e%20Closures)
 
 **Trabalhando com funções que mantêm contexto, recebem e retornam outras funções**
 
@@ -179,7 +179,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **05 - Funções Recursivas**
+### **05 - Funções Recursivas** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/c2e16e8c6711d683298758b5193445f58241c26a/03%20-%20Fun%C3%A7%C3%B5es/05%20-%20Fun%C3%A7%C3%B5es%20Recursivas)
 
 **Funções que chamam a si mesmas.**
 
