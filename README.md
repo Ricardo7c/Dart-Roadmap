@@ -159,7 +159,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **03 - Funções Arrow (`=>`)**
+### **03 - Funções Arrow (`=>`) e Funções anonimas**
 
 **Sintaxe curta e prática para funções pequenas.**
 
@@ -168,26 +168,18 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **04 - Closures**
+### **04 - Funções de Ordem Superior e Closures**
 
-**Funções que *'guardam o contexto'* onde foram criadas.**
-
-* Escopo léxico
-* Uso prático de variáveis preservadas dentro da função
-
-#
-
-### **05 - Funções de Ordem Superior**
-
-**Funções que recebem ou retornam outras funções.**
+**Trabalhando com funções que mantêm contexto, recebem e retornam outras funções**
 
 * Passando funções como parâmetro
 * Retornando funções
-* Uso comum com `map`, `where`, `forEach`
+* Mantendo estado com closures
+* Aplicações práticas com listas (forEach, map, where)
 
 #
 
-### **06 - Funções Recursivas**
+### **05 - Funções Recursivas**
 
 **Funções que chamam a si mesmas.**
 

@@ -19,8 +19,6 @@ O dobro de 4 é 8
 O dobro de 10 é 20
 ```
 
----
-
 ### **02 - Comparando Sintaxe Tradicional e Arrow**
 
 **Enunciado:**
@@ -44,8 +42,6 @@ Quadrado (tradicional): 9
 Quadrado (arrow): 9
 ```
 
----
-
 ### **03 - Arrow Function com Interpolação**
 
 **Enunciado:**
@@ -66,8 +62,6 @@ Olá, Ana! Bem-vindo(a)!
 Olá, Lucas! Bem-vindo(a)!
 ```
 
----
-
 ### **04 - Arrow Function em Expressões Simples**
 
 **Enunciado:**
@@ -85,4 +79,42 @@ Funções, operadores relacionais, ternário (`condição ? valor1 : valor2`).
 ```
 Número 5: Positivo
 Número -2: Negativo
+```
+
+### **05 - Função Anônima em Variável**
+
+**Enunciado:**
+Crie uma variável `saudacao` que armazena uma **função anônima**.
+Essa função deve receber um nome e exibir `"Olá, <nome>!"`.
+Chame `saudacao()` passando alguns nomes diferentes.
+
+**Objetivo:**
+Entender como **armazenar uma função em uma variável**.
+
+**Requisitos de Conhecimento:**
+Funções, parâmetros, `print()`.
+
+**Exemplo de Saída no Terminal:**
+
+```
+Olá, Maria!
+Olá, João!
+```
+
+### **06 - Função Anônima com Retorno**
+
+**Enunciado:**
+Crie uma variável `multiplicar` que armazena uma **função anônima** que recebe dois números e retorna o produto.
+Chame a função e exiba o resultado no terminal.
+
+**Objetivo:**
+Compreender que **funções anônimas também podem retornar valores**.
+
+**Requisitos de Conhecimento:**
+Funções, `return`, operadores aritméticos.
+
+**Exemplo de Saída no Terminal:**
+
+```
+Resultado da multiplicação: 20
 ```
