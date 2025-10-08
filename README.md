@@ -191,13 +191,27 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
 
-### **01 - Classes, Objetos e Construtores**
+### **01 - Classes, Objetos e metodos**
 
 **Aprenda a criar uma classe**
 
 * Classes (molde)
 * Objetos (instancia)
 * Metodos (ações)
+
+#
+
+### **01 - Classes, Objetos, Atributos e Métodos**
+
+**Aprenda a criar e organizar classes completas.**
+
+* Estrutura básica de uma classe (molde)
+* Criação de objetos (instância)
+* Métodos (ações)
+* Atributos de instância e de classe
+* Métodos e atributos `static`
+* Uso do `this`
+* Quando e por que usar `static`
 
 #
 
@@ -211,12 +225,13 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **03 - Encapsulamento e Acesso**
+### **03 - Encapsulamento**
 
-**Proteja os atributos da sua classe.**
+**Protegendo os dados e controlando o acesso aos atributos.**
 
-* `public` (padrão) e `private` (prefixo `_`)
-* **Getters e Setters** para controlar leitura/escrita
+* Uso de `_` para atributos privados
+* Métodos `get` e `set`
+* Controle de leitura e escrita
 
 #
 
@@ -246,4 +261,5 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * `this` (referência ao próprio objeto)
 * **Cascade notation (`..`)** para encadear chamadas
 * Mixins (para compartilhar código sem herança múltipla)
+
 
