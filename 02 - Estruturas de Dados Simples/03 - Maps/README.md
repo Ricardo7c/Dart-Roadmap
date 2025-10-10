@@ -1,6 +1,14 @@
 Excelente 👌 — então vamos começar o novo bloco:
 # **Map (Chave e Valor)**
 
+**Estrutura que armazena pares *chave → valor*.**
+
+* Criando e acessando valores por chave
+* Adicionando e removendo pares
+* Iterando sobre chaves e valores
+* Métodos úteis: `containsKey`, `containsValue`
+
+#
 
 ### **01 - Criando um Map**
 

@@ -1,5 +1,12 @@
 # **Null e Null Safety**
 
+**Evitando erros com valores nulos.**
+
+* `?` (variáveis que podem ser nulas)
+* `??` (valor padrão)
+
+#
+
 ### **01 - Variáveis Nulas**
 
 **Enunciado:**

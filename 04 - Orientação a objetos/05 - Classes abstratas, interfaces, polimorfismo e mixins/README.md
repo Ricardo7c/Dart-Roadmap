@@ -1,5 +1,13 @@
 # **Classes Abstratas, Interfaces, Polimorfismo e Mixins**
 
+**Aprenda a criar modelos genéricos e comportamentos reutilizáveis.**
+
+* Classes Abstratas
+* Interfaces (implements)
+* Polimorfismo (tratando tipos diferentes de forma genérica)
+* Mixins (with)
+* Boas práticas (quando usar herança, interface ou mixin)
+
 ### **01 - Classe Abstrata e Implementação**
 
 **Enunciado:**

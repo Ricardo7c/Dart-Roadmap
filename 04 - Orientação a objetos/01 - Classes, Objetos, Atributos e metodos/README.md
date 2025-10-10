@@ -1,5 +1,16 @@
 # **01 - Classes, Objetos, Atributos e Métodos**
 
+**Aprenda a criar e organizar classes completas.**
+
+* Estrutura básica de uma classe (molde)
+* Criação de objetos (instância)
+* Métodos (ações)
+* Atributos de instância e de classe
+* Métodos e atributos `static`
+* Uso do `this`
+* Quando e por que usar `static`
+
+#
 
 ### **01 - Criando sua Primeira Classe**
 

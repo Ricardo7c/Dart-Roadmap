@@ -1,5 +1,13 @@
 # **02 - Construtores**
 
+**Aprenda a inicializar objetos corretamente.**
+
+* Construtor padrão
+* Construtores nomeados
+* Construtor factory (quando precisamos mais controle)
+
+#
+
 ### **01 - Construtor Padrão**
 
 **Enunciado:**

@@ -1,5 +1,13 @@
 # **Variaveis e tipos de dados**
 
+**Guardando informações na memória e exibir na tela**
+
+* Interpolação `"Olá $nome"`
+* Variaveis `var`, `final`, `const`
+* Tipos básicos: `int`, `double`, `String`, `bool`
+
+#
+
 **01 - Mensagem de Boas-Vindas com Variáveis**
 
 **Enunciado:**

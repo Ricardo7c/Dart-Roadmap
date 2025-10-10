@@ -1,5 +1,13 @@
 # **Encapsulamento**
 
+**Protegendo os dados e controlando o acesso aos atributos.**
+
+* Uso de `_` para atributos privados
+* Métodos `get` e `set`
+* Controle de leitura e escrita
+
+#
+
 ### **01 - Atributos Privados**
 
 **Enunciado:**

@@ -1,5 +1,13 @@
 # **Conversão de tipos e manipulação de strings**
 
+**Transformando valores de um tipo em outro e modificando texto**
+
+* `toString()`, `int.parse()`, `double.parse()`
+* `toInt()`, `toDouble()`
+* `length`, `toUpperCase()`, `contains()`
+
+#
+
 **01 - Convertendo para String**
 
 **Enunciado:**

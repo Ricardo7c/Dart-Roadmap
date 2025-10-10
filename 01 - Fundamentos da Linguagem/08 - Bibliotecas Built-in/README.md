@@ -1,5 +1,12 @@
 # Bibliotecas Built-in
 
+**Inportando e usando bibliotecas padrão**
+
+* Entrada de dados `dart:io`
+* Operações matématicas `dart:math`
+
+#
+
 ### **01 - Lendo Entrada do Usuário**
 
 **Enunciado:**

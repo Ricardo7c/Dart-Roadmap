@@ -1,5 +1,12 @@
 # **Funções Arrow (`=>`)**
 
+**Sintaxe curta e prática para funções pequenas.**
+
+* Diferença entre `function() {}` e `function() => ...`
+* Quando usar arrow functions
+
+#
+
 ### **01 - Sintaxe Curta**
 
 **Enunciado:**

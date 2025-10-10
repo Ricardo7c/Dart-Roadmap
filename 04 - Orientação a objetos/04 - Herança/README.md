@@ -1,5 +1,11 @@
 # **Herança**
 
+**Aprenda a criar hierarquias de classes.**
+
+* Herança (extends)
+* Sobrescrita de métodos (@override)
+* Uso de super
+
 ### **01 - Herança Básica**
 
 **Enunciado:**

@@ -1,5 +1,13 @@
 # **Operadores**
 
+**Fazendo cálculos e comparações.**
+
+* Aritméticos: `+ - * / %`
+* Relacionais: `== != > < >= <=`
+* Lógicos: `&& || !`
+
+#
+
 ### **01 - Operadores Aritméticos Básicos**
 
 **Enunciado:**

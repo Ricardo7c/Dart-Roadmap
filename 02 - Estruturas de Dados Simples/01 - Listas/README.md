@@ -1,5 +1,13 @@
 # **List (Listas)**
 
+**Coleção ordenada de elementos, acessados por índice.**
+
+* Criando listas
+* Acessando e modificando elementos
+* Métodos principais: `add`, `remove`, `insert`, `sort`
+
+#
+
 ### **01 - Criando uma Lista**
 
 **Enunciado:**

@@ -1,5 +1,13 @@
 # **Estrutura basica do programa**
 
+**Como funciona um arquivo Dart, mostrando informações no terminal.**
+
+* Função `main()` como ponto de entrada
+* Usando `print()` para exibir texto e valores
+* Comentários (`//` e `/* */`)
+
+#
+
 **01 - Olá, Mundo em Dart!**
 
 **Enunciado:**

@@ -1,5 +1,14 @@
 # **Parâmetros, Retorno e Escopo**
 
+**Controle a entrada e saída de dados de uma função.**
+
+* Parâmetros obrigatórios
+* Parâmetros opcionais e nomeados
+* Valor de retorno (`return`)
+* Escopo de variáveis (local vs global)
+
+#
+
 ### **01 - Parâmetros Obrigatórios**
 
 **Enunciado:**

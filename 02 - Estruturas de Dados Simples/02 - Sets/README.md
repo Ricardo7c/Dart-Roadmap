@@ -1,5 +1,14 @@
 # **Set (Conjuntos)**
 
+**Coleção de elementos **únicos**, sem ordem fixa.**
+
+* Criando conjuntos
+* Garantindo valores sem duplicatas
+* Operações de conjuntos: união, interseção, diferença
+* Métodos principais: `add`, `remove`, `contains`, `retainWhere`
+
+#
+
 ### **01 - Criando um Set**
 
 **Enunciado:**

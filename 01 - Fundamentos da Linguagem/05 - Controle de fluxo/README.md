@@ -1,5 +1,12 @@
 # **Controle de fluxo**
 
+**Tomando decisões no programa.**
+
+* `if / else`
+* `switch / case`
+
+#
+
 ### **01 - Verificando Idade com if / else**
 
 **Enunciado:**

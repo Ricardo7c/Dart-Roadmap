@@ -1,5 +1,12 @@
 # **Definição e chamada de funções**
 
+**Aprenda a criar funções simples e chamá-las.**
+
+* Estrutura básica
+* Organização do código em blocos reutilizáveis
+
+#
+
 ### **01 - Criando uma Função Simples**
 
 **Enunciado:**

@@ -1,5 +1,13 @@
 # **Funções Recursivas**
 
+**Funções que chamam a si mesmas.**
+
+* Conceito de recursão
+* Casos de parada (evitar loops infinitos)
+* Exemplos: fatorial, Fibonacci
+
+#
+
 ### **01 - Primeira Função Recursiva**
 
 **Enunciado:**

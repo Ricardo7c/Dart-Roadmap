@@ -1,5 +1,13 @@
 # **Funções de Ordem Superior e Closures**
 
+**Trabalhando com funções que mantêm contexto, recebem e retornam outras funções**
+
+* Passando funções como parâmetro
+* Retornando funções
+* Mantendo estado com closures
+* Aplicações práticas com listas (forEach, map, where)
+
+#
 
 ### **01 - Função como Parâmetro**
 

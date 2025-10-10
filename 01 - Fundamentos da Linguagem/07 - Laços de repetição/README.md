@@ -1,5 +1,13 @@
 # Laços de repetição
 
+**Executando blocos de código várias vezes.**
+
+* `for` e `for-in`
+* `while` e `do-while`
+* Operadores de incremento (`++`, `--`)
+
+#
+
 ### **01 - Contagem com for**
 
 **Enunciado:**
