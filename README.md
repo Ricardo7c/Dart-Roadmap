@@ -226,7 +226,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **04 - Herança** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/04%20-%20Heran%C3%A7a%2C%20Interfaces%20e%20Polimorfismo)
+### **04 - Herança** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/823d732c8c1918520747dcb2296c6a7eacdc4092/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/04%20-%20Heran%C3%A7a)
 
 **Aprenda a criar hierarquias de classes.**
 
