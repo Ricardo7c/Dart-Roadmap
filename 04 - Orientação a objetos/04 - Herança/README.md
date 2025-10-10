@@ -1,4 +1,4 @@
-# **Herança, Interfaces e Polimorfismo**
+# **Herança**
 
 ### **01 - Herança Básica**
 
