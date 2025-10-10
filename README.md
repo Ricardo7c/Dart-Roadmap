@@ -226,7 +226,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-## **04 - Herança**
+### **04 - Herança**
 
 **Aprenda a criar hierarquias de classes.**
 
@@ -234,7 +234,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Sobrescrita de métodos (@override)
 * Uso de super
 
-## **05 - Classes abstratas, interfaces, polimorfismo e mixins**
+### **05 - Classes abstratas, interfaces, polimorfismo e mixins**
 
 **Aprenda a criar modelos genéricos e comportamentos reutilizáveis.**
 
@@ -246,12 +246,5 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **06 - Recursos Especiais do Dart**
-
-**Recursos úteis no dia a dia do Flutter:**
-
-* `this` (referência ao próprio objeto)
-* **Cascade notation (`..`)** para encadear chamadas
-* Mixins (para compartilhar código sem herança múltipla)
 
 
