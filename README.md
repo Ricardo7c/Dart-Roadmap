@@ -52,7 +52,6 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
 
-
 * **Classes, Objetos, Atributos e Métodos** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/01%20-%20Classes%2C%20Objetos%2C%20Atributos%20e%20metodos)
 * **Construtores** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/02%20-%20Construtores)
 * **Encapsulamento** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/03%20-%20Encapsulamento)
