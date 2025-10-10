@@ -192,7 +192,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 ## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
 
 
-### **01 - Classes, Objetos, Atributos e Métodos**
+### **01 - Classes, Objetos, Atributos e Métodos** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/01%20-%20Classes%2C%20Objetos%2C%20Atributos%20e%20metodos)
 
 **Aprenda a criar e organizar classes completas.**
 
@@ -206,7 +206,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **02 - Construtores**
+### **02 - Construtores** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/02%20-%20Construtores)
 
 **Aprenda a inicializar objetos corretamente.**
 
@@ -216,7 +216,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **03 - Encapsulamento**
+### **03 - Encapsulamento** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/03%20-%20Encapsulamento)
 
 **Protegendo os dados e controlando o acesso aos atributos.**
 
@@ -226,7 +226,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **04 - Herança**
+### **04 - Herança** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/04%20-%20Heran%C3%A7a%2C%20Interfaces%20e%20Polimorfismo)
 
 **Aprenda a criar hierarquias de classes.**
 
@@ -234,7 +234,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Sobrescrita de métodos (@override)
 * Uso de super
 
-### **05 - Classes abstratas, interfaces, polimorfismo e mixins**
+### **05 - Classes abstratas, interfaces, polimorfismo e mixins** - [Exercício](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/05%20-%20Classes%20abstratas%2C%20interfaces%2C%20polimorfismo%20e%20mixins)
 
 **Aprenda a criar modelos genéricos e comportamentos reutilizáveis.**
 
@@ -244,7 +244,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * Mixins (with)
 * Boas práticas (quando usar herança, interface ou mixin)
 
-#
+
 
 
 
