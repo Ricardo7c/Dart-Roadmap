@@ -1,15 +1,15 @@
 class Lampada{
   bool ligada = true;
 
-  ligar(){
+  void ligar(){
     ligada = true;
   }
 
-  desligar(){
+  void desligar(){
     ligada = false;
   }
 
-  mostrarEstado(){
+  void mostrarEstado(){
     if (ligada){
       print("Lâmpada ligada.");
     }else{

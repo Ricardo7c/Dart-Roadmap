@@ -3,7 +3,7 @@ class Retangulo{
   int altura = 0;
 
 
-  area(){
+  int area(){
     return this.largura * this.altura;
   }
 

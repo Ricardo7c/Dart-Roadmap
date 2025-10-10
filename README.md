@@ -191,15 +191,6 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
 
-### **01 - Classes, Objetos e metodos**
-
-**Aprenda a criar uma classe**
-
-* Classes (molde)
-* Objetos (instancia)
-* Metodos (ações)
-
-#
 
 ### **01 - Classes, Objetos, Atributos e Métodos**
 
@@ -235,22 +226,23 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 #
 
-### **04 - Herança e Reuso**
+## **04 - Herança**
 
-**Reaproveite código com `extends`.**
+**Aprenda a criar hierarquias de classes.**
 
-* Herdando atributos e métodos
-* Usando `super` para acessar a classe mãe
+* Herança (extends)
+* Sobrescrita de métodos (@override)
+* Uso de super
 
-#
+## **05 - Classes abstratas, interfaces, polimorfismo e mixins**
 
-### **05 - Polimorfismo e Interfaces**
+**Aprenda a criar modelos genéricos e comportamentos reutilizáveis.**
 
-**Torne seu código flexível e extensível.**
-
-* **Polimorfismo** (sobrescrita de métodos)
-* `abstract` (classes abstratas)
-* `implements` (interfaces em Dart)
+* Classes Abstratas
+* Interfaces (implements)
+* Polimorfismo (tratando tipos diferentes de forma genérica)
+* Mixins (with)
+* Boas práticas (quando usar herança, interface ou mixin)
 
 #
 

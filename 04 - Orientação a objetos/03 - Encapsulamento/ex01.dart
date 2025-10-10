@@ -3,7 +3,7 @@ class ContaBancaria{
 
   ContaBancaria(this._saldo);
 
-  mostrarSaldo(){
+  void mostrarSaldo(){
     print("Saldo atual: R\$ ${this._saldo}");
   }
 

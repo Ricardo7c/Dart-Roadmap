@@ -3,7 +3,7 @@ class ContaBancaria{
 
   ContaBancaria(this._saldo);
 
-  depositar(double valor){
+  void depositar(double valor){
     if (valor >= 0){
       this._saldo += valor;
       print("Deposito de R\$ $valor realizado com sucesso");
@@ -13,7 +13,7 @@ class ContaBancaria{
     }
   }
 
-  sacar(double valor){
+  void sacar(double valor){
     if (valor <= this._saldo){
       this._saldo -= valor;
       print("Sague de R\$ $valor realizado com sucesso");
@@ -23,7 +23,7 @@ class ContaBancaria{
     }
   }
 
-  mostrarSaldo(){
+  void mostrarSaldo(){
     print("Saldo atual: R\$ ${this._saldo}");
   }
 

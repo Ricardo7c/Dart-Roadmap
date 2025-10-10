@@ -2,7 +2,7 @@ class Pessoa{
   String? nome;
   int? idade;
 
-  apresentar(){
+  void apresentar(){
     print("Olá, meu nome é ${this.nome} e tenho ${this.idade} anos");
   }
 
