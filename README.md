@@ -61,9 +61,9 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 
 ## 🟠 CONCEITOS AVANÇADOS
 
-* **Tratamento de Exceções** – [Exercícios]
-* **Tipos Genéricos** – [Exercícios]
-* **Extensões (`extension`) e Enums** – [Exercícios]
+* **Tratamento de Exceções** – [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/08487e0dbb61c9251732eb1a7b0b158364581aaf/05%20-%20Conceitos%20Avan%C3%A7ados/01%20-%20Tratamendo%20de%20Exce%C3%A7%C3%B5es)
+* **Tipos Genéricos** – [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/08487e0dbb61c9251732eb1a7b0b158364581aaf/05%20-%20Conceitos%20Avan%C3%A7ados/02%20-%20Tipos%20Ger%C3%A9nicos)
+* **Extensões (`extension`) e Enums** – [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/08487e0dbb61c9251732eb1a7b0b158364581aaf/05%20-%20Conceitos%20Avan%C3%A7ados/03%20-%20Extens%C3%B5es%20e%20Enums)
 
 
 <!-- ## 🔴 ASSÍNCRONO E CONCORRÊNCIA
