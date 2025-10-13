@@ -34,14 +34,14 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Bibliotecas built-in** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/22c653c1451e69536b92c7bc37f089330c4b1ed7/01%20-%20Fundamentos%20da%20Linguagem/08%20-%20Bibliotecas%20Built-in)
 
 
-## 🔵 **ESTRUTURAS DE DADOS SIMPLES**
+## 🟡 **ESTRUTURAS DE DADOS SIMPLES**
 
 * **List (Listas)** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/7d360a17c5cbd6c37d22f639f4e6e7c348aadfe3/02%20-%20Estruturas%20de%20Dados%20Simples/01%20-%20Listas)
 * **Set (Conjuntos)** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/7d360a17c5cbd6c37d22f639f4e6e7c348aadfe3/02%20-%20Estruturas%20de%20Dados%20Simples/02%20-%20Sets)
 * **Map (Dicionários/Chave-Valor)** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/7d360a17c5cbd6c37d22f639f4e6e7c348aadfe3/02%20-%20Estruturas%20de%20Dados%20Simples/03%20-%20Maps)
 
 
-## 🟡 **FUNÇÕES**
+## 🔵 **FUNÇÕES**
 
 * **Definição e Chamada de Funções** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/6e9b81790633964fb81ab4aa8124820bce542382/03%20-%20Fun%C3%A7%C3%B5es/01%20-%20Defini%C3%A7%C3%A3o%20e%20chamada%20de%20fun%C3%A7%C3%B5es)
 * **Parâmetros, Retorno e Escopo** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/6e9b81790633964fb81ab4aa8124820bce542382/03%20-%20Fun%C3%A7%C3%B5es/02%20-%20Par%C3%A2metros%2C%20Retorno%20e%20Escopo)
@@ -50,7 +50,7 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Funções Recursivas** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/c2e16e8c6711d683298758b5193445f58241c26a/03%20-%20Fun%C3%A7%C3%B5es/05%20-%20Fun%C3%A7%C3%B5es%20Recursivas)
 
 
-## 🟠 **ORIENTAÇÃO A OBJETOS (OOP)**
+## 🟣 **ORIENTAÇÃO A OBJETOS (OOP)**
 
 * **Classes, Objetos, Atributos e Métodos** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/01%20-%20Classes%2C%20Objetos%2C%20Atributos%20e%20metodos)
 * **Construtores** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/02%20-%20Construtores)
@@ -59,8 +59,28 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Classes abstratas, interfaces, polimorfismo e mixins** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/05%20-%20Classes%20abstratas%2C%20interfaces%2C%20polimorfismo%20e%20mixins)
 
 
+## 🟠 CONCEITOS AVANÇADOS
+
+* **Tratamento de Exceções** – [Exercícios]
+* **Tipos Genéricos** – [Exercícios]
+* **Extensões (`extension`) e Enums** – [Exercícios]
 
 
+<!-- ## 🔴 ASSÍNCRONO E CONCORRÊNCIA
+
+* **Futuros (`Future`, `async`, `await`)** – [Exercícios]
+* **Streams e `StreamController`** – [Exercícios]
+* **`Future.wait`, `StreamSubscription`** – [Exercícios]
+* **Tratamento de erros assíncronos** – [Exercícios]
+
+## ⚫ EXTRAS
+
+* **Modularização e Organização de Código** (`import`, `export`) – [Exercícios]
+* **Pacotes e `pub.dev`** – [Exercícios]
+* **Manipulação de Arquivos e JSON** – [Exercícios]
+* **HTTP e APIs** – [Exercícios]
+* **Criação de Scripts e CLI** – [Exercícios]
+* **Testes Unitários e de Integração** – [Exercícios] -->
 
 
 
