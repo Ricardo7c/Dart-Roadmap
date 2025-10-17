@@ -8,6 +8,8 @@
 * Restrições de tipo (`extends`)
 
 
+#
+
 ### **01 - Introdução aos Generics**
 
 **Enunciado:**
@@ -30,6 +32,8 @@ Funções, tipos genéricos (`<T>`), `print`, parâmetros de função, `runtimeT
 (bool) true
 ```
 
+#
+
 ### **02 - Funções Genéricas**
 
 **Enunciado:**
@@ -50,6 +54,8 @@ List<int> = [1, 2, 3]
 List<double> = [4.2, 0.1, 20.5]
 List<Object> = [S, 42, 2.2]
 ```
+
+#
 
 ### **03 - Classes Genéricas**
 
@@ -75,6 +81,8 @@ Valor armazenado: Dart
 Valor armazenado: 2025
 Valor armazenado: 3.14
 ```
+
+#
 
 ### **04 - Restrições de Tipo com `extends`**
 

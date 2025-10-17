@@ -59,28 +59,22 @@ Sugiro seguir o roadmap sem pular etapas, garantindo que cada tópico seja compr
 * **Classes abstratas, interfaces, polimorfismo e mixins** - [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/eac07d9adf6301870a07f70a1e7380336ae3282b/04%20-%20Orienta%C3%A7%C3%A3o%20a%20objetos/05%20-%20Classes%20abstratas%2C%20interfaces%2C%20polimorfismo%20e%20mixins)
 
 
-## 🟠 CONCEITOS AVANÇADOS
+## 🔴 CONCEITOS AVANÇADOS
 
 * **Tratamento de Exceções** – [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/08487e0dbb61c9251732eb1a7b0b158364581aaf/05%20-%20Conceitos%20Avan%C3%A7ados/01%20-%20Tratamendo%20de%20Exce%C3%A7%C3%B5es)
 * **Tipos Genéricos** – [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/08487e0dbb61c9251732eb1a7b0b158364581aaf/05%20-%20Conceitos%20Avan%C3%A7ados/02%20-%20Tipos%20Ger%C3%A9nicos)
 * **Extensões (`extension`) e Enums** – [Exercícios](https://github.com/Ricardo7c/Dart-Roadmap/tree/08487e0dbb61c9251732eb1a7b0b158364581aaf/05%20-%20Conceitos%20Avan%C3%A7ados/03%20-%20Extens%C3%B5es%20e%20Enums)
+* **Assíncrono e concorrência** - [Exercícios]()
 
 
-<!-- ## 🔴 ASSÍNCRONO E CONCORRÊNCIA
-
-* **Futuros (`Future`, `async`, `await`)** – [Exercícios]
-* **Streams e `StreamController`** – [Exercícios]
-* **`Future.wait`, `StreamSubscription`** – [Exercícios]
-* **Tratamento de erros assíncronos** – [Exercícios]
-
-## ⚫ EXTRAS
+<!-- ## ⚫ EXTRAS
 
 * **Modularização e Organização de Código** (`import`, `export`) – [Exercícios]
 * **Pacotes e `pub.dev`** – [Exercícios]
 * **Manipulação de Arquivos e JSON** – [Exercícios]
 * **HTTP e APIs** – [Exercícios]
 * **Criação de Scripts e CLI** – [Exercícios]
-* **Testes Unitários e de Integração** – [Exercícios] -->
+* **Testes Unitários e de Integração** – [Exercícios]  -->
 
 
 

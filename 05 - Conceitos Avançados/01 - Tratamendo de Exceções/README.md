@@ -5,6 +5,7 @@
 * try / on/ catch / finally
 * throw / rethrow
 
+#
 
 ### **01 - Try / Catch / Finally**
 
@@ -28,6 +29,7 @@ Operação finalizada.
 Erro na conversão.
 Operação finalizada.
 ```
+#
 
 ### **02 - Tratamento Específico com `on`**
 
@@ -48,6 +50,7 @@ Número convertido com sucesso: 15
 Erro: O valor informado não é um número válido.
 Erro inesperado: Null check operator used on a null value.
 ```
+#
 
 ### **03 - Repassando Exceções com `rethrow`**
 

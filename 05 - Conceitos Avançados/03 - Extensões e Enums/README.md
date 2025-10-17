@@ -5,6 +5,8 @@
 * Extensões (`extension`) — adicionando métodos a classes existentes.
 * `Enums` - Representar estados, opções e categorias de forma clara e segura.
 
+#
+
 ### **01 - Adicionando Métodos com `extension`**
 
 **Enunciado:**
@@ -29,6 +31,8 @@ Invertida: trad
 Capitalizada: Dart
 ```
 
+#
+
 ### **02 - Extensão Genérica**
 
 **Enunciado:**
@@ -48,6 +52,8 @@ Primeiro elemento: 10
 Primeiro elemento: null
 ```
 
+#
+
 ### **03 - Enum Básico**
 
 **Enunciado:**
@@ -65,6 +71,8 @@ Enum, `print()`, variáveis, `switch`.
 ```
 Hoje é quarta.
 ```
+
+#
 
 ### **04 - Enum com `switch`**
 
@@ -86,6 +94,8 @@ Hoje é sábado.
 Fim de semana!
 ```
 
+#
+
 ### **05 - Enum com Métodos e Propriedades**
 
 **Enunciado:**
@@ -105,6 +115,8 @@ Nível: admin
 Descrição: Acesso total ao sistema.
 Mensagem: Bem-vindo, administrador!
 ```
+
+#
 
 ### **06 - Enum com Valores Personalizados**
 
@@ -127,6 +139,4 @@ Enhanced enums, construtores, listas, laços.
 3 - concluido: Entregue ao cliente.
 4 - cancelado: Pedido cancelado.
 ```
-
-
 
